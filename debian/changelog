@@ -1,0 +1,85 @@
+fritzing-parts (0.9.6~unreleased-1) unstable; urgency=medium
+
+  * Fritzing authors do not release fritzing-parts anymore, but rely
+    on the applications fritzing to synchronize parts from Github; this
+    is not compliant with the DFSG (privacy breach). So I downloaded a
+    snapshot today and packaged it.
+  * added a template sqlite database to the package
+  * removed the debian patch which made Python2 code compatible with Python3
+
+ -- Georges Khaznadar <georgesk@debian.org>  Mon, 23 Aug 2021 01:14:10 +0200
+
+fritzing-parts (0.9.3b-6) unstable; urgency=medium
+
+  * fixed the watch file
+
+ -- Georges Khaznadar <georgesk@debian.org>  Sat, 27 Mar 2021 14:58:15 +0100
+
+fritzing-parts (0.9.3b-5) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints.
+    + fritzing-parts: Add Multi-Arch: foreign.
+
+  [ Georges Khaznadar ]
+  * replaced the build-dependency on python-all by python3-all
+    Closes: #936562
+  * patched scripts/fpgrabber.py to support Python3
+
+ -- Debian Janitor <janitor@jelmer.uk>  Mon, 23 Nov 2020 22:51:42 -0000
+
+fritzing-parts (0.9.3b-4) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Trim trailing whitespace.
+  * Use secure copyright file specification URI.
+  * Use secure URI in Homepage field.
+  * Bump debhelper from deprecated 9 to 12.
+  * Set debhelper-compat version in Build-Depends.
+  * Update standards version to 4.5.0, no changes needed.
+
+  [ Georges Khaznadar ]
+  * BUmped standards version to 4.5.1
+
+ -- Georges Khaznadar <georgesk@debian.org>  Mon, 23 Nov 2020 19:10:25 +0100
+
+fritzing-parts (0.9.3b-3) unstable; urgency=medium
+
+  * applied Chris Lamb's patch. Closes: #855426
+  * upgraded Standards-Version: 4.3.0
+
+ -- Georges Khaznadar <georgesk@debian.org>  Sun, 06 Jan 2019 19:51:35 +0100
+
+fritzing-parts (0.9.3b-2) unstable; urgency=medium
+
+  * added VCS stuff
+  * upgraded dh level to 11, Standards-Version to 4.2.1
+  * removed X-Python-Version
+
+ -- Georges Khaznadar <georgesk@debian.org>  Sat, 15 Dec 2018 17:05:55 +0100
+
+fritzing-parts (0.9.3b-1) unstable; urgency=medium
+
+  * New upstream release
+  * Upgraded Standards-Version: 3.9.8
+  * added a --with python2 stance to d/rules, modified d/control accordingly
+  * changed the path to copyrighted files in d/copyright
+  * fixed the "clean" target in debian/rules
+  * replaced the script update-copyright by the script fzp2copyright
+    and updated the build-dependencies accordingly
+
+ -- Georges Khaznadar <georgesk@debian.org>  Sat, 31 Dec 2016 14:44:57 +0100
+
+fritzing-parts (0.9.2b+dfsg-2) unstable; urgency=medium
+
+  * Released once more. Closes: #801276. I repeated also Andreas Beckmann's
+    hint to Enrique Hernández Bello: "You probably want:
+    Depends: fritzing-parts (>= ${source:UpstreamVersion})"
+
+ -- Georges Khaznadar <georgesk@debian.org>  Sat, 24 Oct 2015 17:43:47 +0200
+
+fritzing-parts (0.9.2b+dfsg-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Enrique Hernández Bello <ehbello@gmail.com>  Sun, 25 Jan 2015 16:03:32 +0000

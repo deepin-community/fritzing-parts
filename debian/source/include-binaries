@@ -1,0 +1,4 @@
+# added a template sqlite database to the package
+# this database is made by running once fritzing in a suitable environment
+
+parts.db

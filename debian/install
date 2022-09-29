@@ -1,0 +1,7 @@
+bins       /usr/share/fritzing/parts
+contrib    /usr/share/fritzing/parts
+core       /usr/share/fritzing/parts
+obsolete   /usr/share/fritzing/parts
+scripts    /usr/share/fritzing/parts
+svg        /usr/share/fritzing/parts
+user       /usr/share/fritzing/parts

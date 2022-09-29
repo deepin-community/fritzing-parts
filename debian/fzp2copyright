@@ -1,0 +1,86 @@
+#!/usr/bin/python3
+
+import os, sys, xml.dom.minidom, re, os.path
+
+def findAllFzp(dirList=["bins","contrib","core","obsolete"]):
+    result=[]
+    for d in dirList:
+        for root, dirs, files in os.walk(d):
+            for file in files:
+                if file.endswith(".fzp"):
+                    result.append(os.path.join(root, file))
+    result.sort()
+    return result
+
+class Author:
+    def __init__(self,name="", year=""):
+        self.name=name.strip()
+        self.year=year.strip()
+        
+    def __str__(self):
+        template="{year} {name}"
+        return template.format(**self.__dict__)
+
+    def __eq__(self, other):
+        return self.name==other.name and self.year==other.year
+
+    def __lt__(self, other):
+        return self.name < other.name or self.year < other.year
+
+yearpattern=re.compile(r".*(\d\d\d\d).*")
+def fzp2authorDict(paths):
+    result={}
+    i=0
+    for p in paths:
+        try:
+            msg="file not parsed"
+            doc=xml.dom.minidom.parse(open(p, "rt", encoding="utf-8"))
+            msg="date not parsed"
+            date=doc.getElementsByTagName("date")[0]
+            msg="author's name not parsed"
+            name=doc.getElementsByTagName("author")[0]
+            msg="year not parsed"
+            year=yearpattern.match(date.firstChild.nodeValue).group(1)
+            sys.stdout.write("{}\r".format(i))
+            i+=1
+            author=Author(name.firstChild.nodeValue, year)
+            # add paths into the dictionary. In order to be able
+            # to make space separated path lists, the space characters
+            # are replaced by the '?' wildcards.
+            if str(author) in result:
+                result[str(author)].append(p.replace(" ","?"))
+            else:
+                result[str(author)]=[p.replace(" ","?")]
+        except Exception as e:
+            sys.stderr.write("{}\n".format(e))
+            sys.stderr.write("Error, malformed XML file: {} ({})\n".format(p, msg))
+    sys.stdout.write("\n")
+    return result
+
+def authorDict2copyright(d):
+    result=""
+    authors=sorted(d.keys())
+    for a in authors:
+        result+="""
+
+Files: {}
+Copyright: {}
+License: CC-BY-SA-3.0
+""".format(" ".join(d[a]), a)
+    return result
+
+if __name__=="__main__":
+    fzps=findAllFzp()
+    dictAuthor=fzp2authorDict(fzps)
+    copyrightFile=os.path.abspath(os.path.join(os.path.dirname(__file__),
+                                               "copyright"))
+    with open(copyrightFile, "wt", encoding="utf-8") as outfile, \
+         open(copyrightFile+".in", "rt", encoding="utf-8") as infile:
+        lines=infile.readlines()
+        for l in lines:
+            if "#end authors of parts" not in l:
+                outfile.write(l)
+            else:
+                outfile.write(authorDict2copyright(dictAuthor))
+                outfile.write("Comment: "+l)
+    print("wrote", copyrightFile)

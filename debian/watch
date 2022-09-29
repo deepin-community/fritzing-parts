@@ -1,0 +1,6 @@
+version=4
+
+
+opts="dversionmangle=s/\+dfsg\d?//,filenamemangle=s%(?:.*?)?v?(\d[\d.]*)\.tar\.gz%fritzing-parts-$1.tar.gz%" \
+   https://github.com/fritzing/fritzing-parts/tags \
+   (?:.*?/)?v?(\d[\d.]*b?)\.tar\.gz debian debian/do-dfsg-tarball # uupdate

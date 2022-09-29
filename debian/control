@@ -1,0 +1,25 @@
+Source: fritzing-parts
+Maintainer: Enrique Hernández Bello <ehbello@gmail.com>
+Uploaders: Georges Khaznadar <georgesk@debian.org>
+Section: electronics
+Priority: optional
+Build-Depends: debhelper-compat (= 12),
+ dh-python, python3-all, python3
+Standards-Version: 4.5.1
+Vcs-Browser: https://salsa.debian.org/georgesk/fritzing-parts
+Vcs-Git: https://salsa.debian.org/georgesk/fritzing-parts.git
+Homepage: https://fritzing.org
+
+Package: fritzing-parts
+Architecture: all
+Depends: ${misc:Depends}
+Conflicts: fritzing-data (<< 0.9.2)
+Multi-Arch: foreign
+Description: Easy-to-use electronic design software (parts files)
+ Fritzing is an open source project designed to help one transition from a
+ prototype to a finished project. Aimed at users who want to produce or document
+ circuits and experiments, one starts by building a physical prototype, then
+ recreating it with Fritzing’s graphical editor. From there one can generate a
+ schematic, PCB artwork, and PCB production files.
+ .
+ This package contains the architecture independent parts files for Fritzing.

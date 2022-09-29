@@ -1,0 +1,1353 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: fritzing
+Source: http://www.fritzing.org/download
+
+Files: *
+Copyright: 2007-2013 University of Applied Sciences Potsdam
+ 2013-2015 Friends-of-Fritzing foundation and IXDS
+License: CC-BY-SA-3.0
+Comment: here is a list of authors of documentation and parts design,
+ #begin authors of parts
+ #This list is generated automatically by the script debian/update-copyright
+ #It is based on the contents of the database parts.db
+
+
+Files: core/SMD_crystal.fzp
+Copyright: 0101 Fritzing Core Team
+License: CC-BY-SA-3.0
+
+
+Files: core/4067_HCF.fzp
+Copyright: 2001 Alfonso Abelenda Escudero
+License: CC-BY-SA-3.0
+
+
+Files: core/LED-generic-5mm.fzp core/acpower.fzp core/capacitor_electrolytic_large.fzp core/capacitor_electrolytic_small.fzp core/dcpower2.fzp core/lm358.fzp obsolete/LED-red-5mm?(2).fzp obsolete/LED-red-5mm?(3).fzp obsolete/LED-red-5mm.fzp obsolete/LED-red-5mm_t1.75.fzp obsolete/capacitor_ceramic_disk_1pF.fzp obsolete/capacitor_ceramic_disk_220pF.fzp obsolete/capacitor_ceramic_disk_22pF.fzp obsolete/ceramic_capacitor_22pf.fzp obsolete/electrolytic_capacitor_1000uF.fzp obsolete/electrolytic_capacitor_100uF.fzp obsolete/electrolytic_capacitor_10uF.fzp obsolete/electrolytic_capacitor_1uF.fzp obsolete/electrolytic_capacitor_220uF.fzp obsolete/electrolytic_capacitor_22uF.fzp obsolete/electrolytic_capacitor_4700uF.fzp obsolete/electrolytic_capacitor_470uF.fzp obsolete/electrolytic_capacitor_47uF.fzp obsolete/pcb-plain-100x160.fzp obsolete/pcb-plain-150x200.fzp obsolete/pcb-plain-200x300.fzp obsolete/pcb-plain-250x250.fzp obsolete/pcb-plain-60x100.fzp obsolete/pcb-plain-75x100.fzp
+Copyright: 2008 Brendan Howell
+License: CC-BY-SA-3.0
+
+
+Files: core/555timer.fzp core/Optocoupler_TLP621.fzp core/breadboard.fzp core/miniBreadboard.fzp core/tinyBreadboard.fzp obsolete/Optocoupler_TLP621.fzp obsolete/optocoupler.fzp
+Copyright: 2008 Dirk van Oosterbosch
+License: CC-BY-SA-3.0
+
+
+Files: core/transistor_signal_PNP_TO92_CBE.fzp
+Copyright: 2008 Fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/basic-diode.fzp obsolete/diode_1N4001_300mil.fzp
+Copyright: 2008 JennyLC
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/artreeno.fzp
+Copyright: 2008 O. Tannenbaum
+License: CC-BY-SA-3.0
+
+
+Files: core/LED-generic-3mm.fzp core/basic_fet_n.fzp core/basic_fet_p.fzp core/basic_power_transistor_npn.fzp core/basic_power_transistor_pnp.fzp core/pot_trimmer_12mm.fzp core/servo.fzp core/transistor_signal_PNP_TO92_ECB.fzp obsolete/LED-blue-5mm?(2).fzp obsolete/LED-blue-5mm?(3).fzp obsolete/LED-blue-5mm.fzp obsolete/LED-blue-5mm_t1.75.fzp obsolete/LED-green-5mm?(2).fzp obsolete/LED-green-5mm?(3).fzp obsolete/LED-green-5mm.fzp obsolete/LED-green-5mm_t1.75.fzp obsolete/LED-white-5mm?(2).fzp obsolete/LED-white-5mm?(3).fzp obsolete/LED-white-5mm.fzp obsolete/LED-white-5mm_t1.75.fzp obsolete/LED-yellow-5mm?(2).fzp obsolete/LED-yellow-5mm?(3).fzp obsolete/LED-yellow-5mm.fzp obsolete/LED-yellow-5mm_t1.75.fzp obsolete/basic_poti.fzp obsolete/basic_servo.fzp obsolete/basic_transistor_npn.fzp obsolete/basic_transistor_pnp.fzp obsolete/capacitor_ceramic_disk_0_01uF.fzp obsolete/capacitor_ceramic_disk_0_1uF.fzp obsolete/ceramic_capacitor_0_01uF.fzp obsolete/ceramic_capacitor_basic_0_1uF.fzp obsolete/electrolytic_capacitor_basic_10uF.fzp obsolete/transistor_signal_NPN_TO92.fzp obsolete/transistor_signal_PNP_TO92.fzp
+Copyright: 2008 Stefan Hermann
+License: CC-BY-SA-3.0
+
+
+Files: core/led-rgb-4pin-anode.fzp obsolete/led-rgb-4pin-anode.fzp
+Copyright: 2009 Adafruit Industries
+License: CC-BY-SA-3.0
+
+
+Files: core/controller_mbed.fzp
+Copyright: 2009 André Knörig
+License: CC-BY-SA-3.0
+
+
+Files: core/arduino-shield.fzp core/diode_1N4001_300mil.fzp core/halfBreadboard.fzp core/pot_big.fzp core/pot_trimmer_6mm.fzp core/resistor.fzp core/resistor_5band.fzp core/thermistor_300mil.fzp obsolete/Screw?terminal_3_5mm.fzp obsolete/arduino-shield_two_layer.fzp obsolete/atmega168.fzp obsolete/basic_thermistor.fzp obsolete/big_pot.fzp obsolete/pot_trimmer_6mm.fzp obsolete/resistor_10.fzp obsolete/resistor_100.fzp obsolete/resistor_100_mini.fzp obsolete/resistor_100k.fzp obsolete/resistor_100k_mini.fzp obsolete/resistor_10_mini.fzp obsolete/resistor_10k.fzp obsolete/resistor_10k_mini.fzp obsolete/resistor_15.fzp obsolete/resistor_150.fzp obsolete/resistor_150_mini.fzp obsolete/resistor_150k.fzp obsolete/resistor_150k_mini.fzp obsolete/resistor_15_mini.fzp obsolete/resistor_15k.fzp obsolete/resistor_15k_mini.fzp obsolete/resistor_1M.fzp obsolete/resistor_1M_mini.fzp obsolete/resistor_1_5k.fzp obsolete/resistor_1_5k_mini.fzp obsolete/resistor_1k.fzp obsolete/resistor_1k_mini.fzp obsolete/resistor_22.fzp obsolete/resistor_220.fzp obsolete/resistor_220_mini.fzp obsolete/resistor_220k.fzp obsolete/resistor_220k_mini.fzp obsolete/resistor_22_mini.fzp obsolete/resistor_22k.fzp obsolete/resistor_22k_mini.fzp obsolete/resistor_27k.fzp obsolete/resistor_27k_mini.fzp obsolete/resistor_2_2k.fzp obsolete/resistor_2_2k_mini.fzp obsolete/resistor_33.fzp obsolete/resistor_330.fzp obsolete/resistor_330_mini.fzp obsolete/resistor_330k.fzp obsolete/resistor_330k_mini.fzp obsolete/resistor_33_mini.fzp obsolete/resistor_33k.fzp obsolete/resistor_33k_mini.fzp obsolete/resistor_3_3k.fzp obsolete/resistor_3_3k_mini.fzp obsolete/resistor_47.fzp obsolete/resistor_470.fzp obsolete/resistor_470_mini.fzp obsolete/resistor_470k.fzp obsolete/resistor_470k_mini.fzp obsolete/resistor_47_mini.fzp obsolete/resistor_47k.fzp obsolete/resistor_47k_mini.fzp obsolete/resistor_4_7k.fzp obsolete/resistor_4_7k_mini.fzp obsolete/resistor_68.fzp obsolete/resistor_680.fzp obsolete/resistor_680_mini.fzp obsolete/resistor_680k.fzp obsolete/resistor_680k_mini.fzp obsolete/resistor_68_mini.fzp obsolete/resistor_68k.fzp obsolete/resistor_68k_mini.fzp obsolete/resistor_6_8k.fzp obsolete/resistor_6_8k_mini.fzp obsolete/thermistor_300mil.fzp obsolete/trimpot_meggitt_pih.fzp
+Copyright: 2009 Brendan Howell
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/arduino_mega.fzp
+Copyright: 2009 Brendan Howell and Lionel Michel
+License: CC-BY-SA-3.0
+
+
+Files: core/4?x?AAA?Battery?Mount.fzp core/battery-AA.fzp core/dc_motor.fzp obsolete/battery-AA.fzp obsolete/dc_motor.fzp
+Copyright: 2009 Brendan Howell/Dirk van Osterbosch/Lionel Michel
+License: CC-BY-SA-3.0
+
+
+Files: core/SN74LS14N?Schmitt?Trigger.fzp core/TPA2000D1?Audio?Amplifier?dip?double.fzp core/TPA2000D1?Audio?Amplifier?dip.fzp core/TPA2000D1?Audio?Amplifier?smd.fzp core/h-bridge.fzp
+Copyright: 2009 Dirk van Oosterbosch
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/capacitor_tantalum_0_1uF.fzp obsolete/capacitor_tantalum_100uF.fzp obsolete/capacitor_tantalum_10uF.fzp obsolete/capacitor_tantalum_1uF.fzp
+Copyright: 2009 Don Roberts (blog.gogozer.net)
+License: CC-BY-SA-3.0
+
+
+Files: core/atmega168_8e4b4f3e54f56b3f712afc6a8e6a8a71.fzp core/atmega328_8e4b4f3e54f56b3f712afc6a8e6a8a71.fzp core/generic_sip_2_300mil.fzp obsolete/avr_isp_10_pin.fzp obsolete/generic-female-header-rounded_10.fzp obsolete/generic-female-header-rounded_11.fzp obsolete/generic-female-header-rounded_12.fzp obsolete/generic-female-header-rounded_14.fzp obsolete/generic-female-header-rounded_16.fzp obsolete/generic-female-header-rounded_18.fzp obsolete/generic-female-header-rounded_2.fzp obsolete/generic-female-header-rounded_20.fzp obsolete/generic-female-header-rounded_3.fzp obsolete/generic-female-header-rounded_4.fzp obsolete/generic-female-header-rounded_5.fzp obsolete/generic-female-header-rounded_6.fzp obsolete/generic-female-header-rounded_7.fzp obsolete/generic-female-header-rounded_8.fzp obsolete/generic-female-header-rounded_9.fzp obsolete/generic-female-header_10.fzp obsolete/generic-female-header_11.fzp obsolete/generic-female-header_12.fzp obsolete/generic-female-header_14.fzp obsolete/generic-female-header_16.fzp obsolete/generic-female-header_18.fzp obsolete/generic-female-header_2.fzp obsolete/generic-female-header_20.fzp obsolete/generic-female-header_3.fzp obsolete/generic-female-header_4.fzp obsolete/generic-female-header_5.fzp obsolete/generic-female-header_6.fzp obsolete/generic-female-header_7.fzp obsolete/generic-female-header_8.fzp obsolete/generic-female-header_9.fzp obsolete/generic-male-header_10.fzp obsolete/generic-male-header_11.fzp obsolete/generic-male-header_12.fzp obsolete/generic-male-header_14.fzp obsolete/generic-male-header_16.fzp obsolete/generic-male-header_18.fzp obsolete/generic-male-header_2.fzp obsolete/generic-male-header_20.fzp obsolete/generic-male-header_3.fzp obsolete/generic-male-header_4.fzp obsolete/generic-male-header_5.fzp obsolete/generic-male-header_6.fzp obsolete/generic-male-header_7.fzp obsolete/generic-male-header_8.fzp obsolete/generic-male-header_9.fzp obsolete/mystery_part1.fzp obsolete/mystery_part10.fzp obsolete/mystery_part11.fzp obsolete/mystery_part12.fzp obsolete/mystery_part14.fzp obsolete/mystery_part16.fzp obsolete/mystery_part18.fzp obsolete/mystery_part2.fzp obsolete/mystery_part20.fzp obsolete/mystery_part3.fzp obsolete/mystery_part4.fzp obsolete/mystery_part5.fzp obsolete/mystery_part6.fzp obsolete/mystery_part7.fzp obsolete/mystery_part8.fzp obsolete/mystery_part9.fzp
+Copyright: 2009 Fritzing Part-o-matic
+License: CC-BY-SA-3.0
+
+
+Files: core/breadboard2.fzp
+Copyright: 2009 GorillaCoder
+License: CC-BY-SA-3.0
+
+
+Files: core/basic-toggle-switch.fzp core/basic-toggle-switch_pressed.fzp
+Copyright: 2009 Jenny
+License: CC-BY-SA-3.0
+
+
+Files: core/74HC595.fzp
+Copyright: 2009 Jonas Jaeger
+License: CC-BY-SA-3.0
+
+
+Files: core/Antenna.fzp core/BASIC_Stamp_2p40.fzp core/Battery?block?9V.fzp core/Power?plug.fzp core/Tilt?switch.fzp core/USB?connector.fzp core/crystal.fzp core/infrared_proximity_sensor.fzp core/loudspeaker.fzp core/microphone.fzp core/peltier?element.fzp core/piezo?sensor.fzp core/reedSwitch_500mil.fzp core/screw_terminal_2_100mil.fzp core/screw_terminal_2_200mil.fzp core/screw_terminal_2_3.5mm.fzp core/screw_terminal_2_300mil.fzp core/solenoid.fzp core/xbee.fzp obsolete/Arduino?Nano.fzp obsolete/Battery?block?9V.fzp obsolete/Generic?female?header?-?metal?rounded.fzp obsolete/Generic?female?header.fzp obsolete/Generic?male?header.fzp obsolete/Screw?terminal.fzp obsolete/accelerometer-adxl.fzp obsolete/crystal?(2).fzp obsolete/crystal.fzp obsolete/reed?switch.fzp
+Copyright: 2009 Lionel Michel
+License: CC-BY-SA-3.0
+
+
+Files: core/ATmega644.fzp
+Copyright: 2009 Luis Emiro Linares Garcia
+License: CC-BY-SA-3.0
+
+
+Files: core/stepper_motor_bipolar.fzp core/stepper_motor_unipolar.fzp obsolete/stepper_motor_bipolar.fzp obsolete/stepper_motor_unipolar.fzp
+Copyright: 2009 Peter Boman
+License: CC-BY-SA-3.0
+
+
+Files: core/rfid-reader.fzp
+Copyright: 2009 Tuomo Tammenpää
+License: CC-BY-SA-3.0
+
+
+Files: core/din-5_midi_connector.fzp
+Copyright: 2009 andre
+License: CC-BY-SA-3.0
+
+
+Files: core/inductor.fzp obsolete/inductor.fzp
+Copyright: 2009 lionel
+License: CC-BY-SA-3.0
+
+
+Files: core/16-segment_display.fzp core/7-segment_display.fzp
+Copyright: 2009 lionelmichel
+License: CC-BY-SA-3.0
+
+
+Files: core/led-rgb-4pin-anode_rbg.fzp core/led-rgb-4pin-cathode_rbg.fzp
+Copyright: 2009 stefanhermann
+License: CC-BY-SA-3.0
+
+
+Files: core/SMD_multilayer-capacitor_0805.fzp core/SMD_multilayer-capacitor_1206.fzp core/capacitor_ceramic_100mil.fzp core/capacitor_ceramic_200mil.fzp core/diode_schottky_1N5817_300mil.fzp core/resonator-2pin.fzp core/resonator-3pin.fzp obsolete/Arduino?Fio.fzp obsolete/capacitor_ceramic_0_1nF.fzp obsolete/capacitor_ceramic_0_1uF.fzp obsolete/capacitor_ceramic_1nF.fzp obsolete/capacitor_ceramic_1uF.fzp obsolete/capacitor_ceramic_47nF.fzp obsolete/resonator-2pin.fzp obsolete/resonator-3pin.fzp
+Copyright: 2010 André Knörig
+License: CC-BY-SA-3.0
+
+
+Files: core/capacitor_electrolytic_medium.fzp
+Copyright: 2010 Brendan Howell
+License: CC-BY-SA-3.0
+
+
+Files: core/controller_pico.fzp
+Copyright: 2010 Brian Evans
+License: CC-BY-SA-3.0
+
+
+Files: core/Netduino.fzp core/NetduinoMini.fzp core/NetduinoPlus.fzp
+Copyright: 2010 CW
+License: CC-BY-SA-3.0
+
+
+Files: core/Dial?Potentiometer?with?switch.fzp
+Copyright: 2010 Dirk van Oosterbosch
+License: CC-BY-SA-3.0
+
+
+Files: core/NetduinoPlus2.fzp
+Copyright: 2010 Fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/SMD_multilayer-capacitor_0603.fzp core/SMD_tantalum_capacitor_A_3216.fzp core/SMD_tantalum_capacitor_B_3528.fzp core/SMD_tantalum_capacitor_C_6032.fzp core/SMD_tantalum_capacitor_D_7343.fzp core/capacitor_tantalum_100mil.fzp core/capacitor_tantalum_200mil.fzp
+Copyright: 2010 Fritzing Team
+License: CC-BY-SA-3.0
+
+
+Files: core/CRYSTAL?-?kHz.fzp core/Lilypad?Vibe?Motor.fzp
+Copyright: 2010 J.A. Korten - JKSOFT Educational
+License: CC-BY-SA-3.0
+
+
+Files: core/SMD_Diode_ZEN_3-6.fzp core/diode_zener_0_5w_3_6v_300mil.fzp obsolete/diode_zener_0_5w_3_6v_300mil.fzp obsolete/diode_zener_1w_4_7v_300mil.fzp
+Copyright: 2010 Juan Greco
+License: CC-BY-SA-3.0
+
+
+Files: core/BASIC_Stamp_1.fzp core/BASIC_Stamp_2.fzp core/BASIC_Stamp_2e.fzp core/BASIC_Stamp_2p24.fzp core/BASIC_Stamp_2pe.fzp core/BASIC_Stamp_2px24.fzp core/BASIC_Stamp_2sx.fzp core/Teensy?2.0.fzp core/controller_propeller_D40.fzp core/gogoboard?4.0.fzp core/lcd-GDM1602K.fzp core/led-rgb-6pin.fzp core/pot-slider.fzp core/stereo-jack-3_5mm.fzp core/stereo_jack_pg203j_6d7c0c2_002.fzp obsolete/Arduino?LilyPad.fzp obsolete/Arduino?Mini?Pro.fzp obsolete/Arduino?Mini.fzp obsolete/lcd-screen.fzp obsolete/led-rgb-6pin.fzp obsolete/pot-slider.fzp obsolete/pot-small.fzp obsolete/pot-small2.fzp obsolete/stereo-jack-3_5mm.fzp obsolete/stereo_jack__PG203J__3.5mm.fzp
+Copyright: 2010 Lionel Michel
+License: CC-BY-SA-3.0
+
+
+Files: core/SMD_74HC595.fzp core/SMD_AD5206.fzp core/SMD_BC847.fzp core/SMD_BC857.fzp core/SMD_N-FET.fzp core/SMD_N-FET_DPak.fzp core/SMD_P-FET.fzp core/SMD_P-FET_DPak.fzp core/SMD_atmega168.fzp core/SMD_elko_0405.fzp core/SMD_elko_0605.fzp core/SMD_elko_0807.fzp core/SMD_elko_1010.fzp obsolete/SMD_AD5206.fzp
+Copyright: 2010 Mr.T
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/Arduino?Ethernet?Shield.fzp
+Copyright: 2010 Nils and Torsten (based on the Arduino part)
+License: CC-BY-SA-3.0
+
+
+Files: core/11LC010.fzp core/11LC020.fzp core/11LC040.fzp core/11LC080.fzp core/11LC160.fzp core/24LC01.fzp core/24LC02.fzp core/24LC04.fzp core/24LC08.fzp core/24LC1025.fzp core/24LC128.fzp core/24LC16.fzp core/24LC256.fzp core/24LC32.fzp core/24LC512.fzp core/24LC64.fzp core/25LC010.fzp core/25LC020.fzp core/25LC040.fzp core/25LC080.fzp core/25LC1024.fzp core/25LC128.fzp core/25LC160.fzp core/25LC256.fzp core/25LC320.fzp core/25LC512.fzp core/25LC640.fzp core/DS1302.fzp core/DS1307.fzp core/FRM010.fzp core/FRM050.fzp core/L293D.fzp core/PICAXE_08.fzp core/PICAXE_08M.fzp core/PICAXE_14M.fzp core/PICAXE_18.fzp core/PICAXE_18A.fzp core/PICAXE_18M.fzp core/PICAXE_18X.fzp core/PICAXE_20M.fzp core/PICAXE_20X2.fzp core/PICAXE_28.fzp core/PICAXE_28A.fzp core/PICAXE_28X.fzp core/PICAXE_28X1.fzp core/PICAXE_28X2.fzp core/PICAXE_28X2_3V.fzp core/PICAXE_40X.fzp core/PICAXE_40X1.fzp core/PICAXE_40X2.fzp core/PICAXE_40X2_3V.fzp core/SMD_DS1302.fzp core/ULN2003A.fzp core/ULN2803A.fzp core/uM_FPUv2.fzp core/uM_FPUv3.fzp
+Copyright: 2010 Revolution Education Ltd
+License: CC-BY-SA-3.0
+
+
+Files: core/EDGY_motor_control.fzp
+Copyright: 2010 Stefan Hermann
+License: CC-BY-SA-3.0
+
+
+Files: core/GLCD?128x64.fzp
+Copyright: 2010 Vince Callahan
+License: CC-BY-SA-3.0
+
+
+Files: core/controller_wiring.fzp core/controller_wiring_mini.fzp core/usbadapter_wiring.fzp
+Copyright: 2010 andre
+License: CC-BY-SA-3.0
+
+
+Files: core/Teensy?2.0?++.fzp
+Copyright: 2010 lionelmichel
+License: CC-BY-SA-3.0
+
+
+Files: core/Peppermill?Power?Board.fzp
+Copyright: 2010 nvillar
+License: CC-BY-SA-3.0
+
+
+Files: core/AD5206?Digital?Potentiometer.fzp core/Barometric?Pressure?Sensor.fzp core/Basic?Force?Sensing?Resistor?(FSR).fzp core/HCMS-29xx.fzp core/Pushbutton.fzp core/Round?Pushbutton.fzp obsolete/AD5206?Digital?Potentiometer.fzp
+Copyright: 2010 tigoe
+License: CC-BY-SA-3.0
+
+
+Files: core/Half_breadboard.fzp
+Copyright: 2011 Alan Smith
+License: CC-BY-SA-3.0
+
+
+Files: core/Wiring_S.fzp
+Copyright: 2011 Brett Hagman, Rogue Robotics, bhagman@roguerobotics.com, http://www.roguerobotics.com/
+License: CC-BY-SA-3.0
+
+
+Files: core/Fuse_with_Handler.fzp
+Copyright: 2011 Carlos Hansen
+License: CC-BY-SA-3.0
+
+
+Files: core/KA78R05_Low_Dropout_Voltage_Regulator.fzp
+Copyright: 2011 Carlos Hansen Mendoza
+License: CC-BY-SA-3.0
+
+
+Files: core/Adafruit_Atmega32u4_Breakout.fzp
+Copyright: 2011 Christophe Augier
+License: CC-BY-SA-3.0
+
+
+Files: core/LilyPad-Accelerometer-v17.fzp
+Copyright: 2011 Fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/SN74LS14N.fzp core/SN74LS21N.fzp
+Copyright: 2011 Fritzing Part-o-matic
+License: CC-BY-SA-3.0
+
+
+Files: core/jlpcb-089.fzp core/jlpcb-104.fzp core/jlpcb-128.fzp
+Copyright: 2011 Jean-Claude Wippler
+License: CC-BY-SA-3.0
+
+
+Files: core/WIZ820io.fzp obsolete/WIZ820io.fzp
+Copyright: 2011 Jinbuhm Kim (jinbuhm.Kim@gmail.com) fixed by fabian althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/tmp36.fzp
+Copyright: 2011 Jonathan Cohen
+License: CC-BY-SA-3.0
+
+
+Files: core/DUO_LED_RG.fzp
+Copyright: 2011 Kubax
+License: CC-BY-SA-3.0
+
+
+Files: core/Real_Time_Clock_Module___DS1307_RTC_Breakout_Board.fzp
+Copyright: 2011 Mike
+License: CC-BY-SA-3.0
+
+
+Files: core/SMD_Diode_REC_DO.fzp core/SMD_Diode_STK_DO.fzp core/SMD_LED_generic_0603.fzp core/SMD_LED_generic_0805.fzp core/SMD_LED_generic_1206.fzp core/SMD_NE555.fzp core/SMD_ULN2003A.fzp core/SMD_inductor_0603.fzp core/SMD_inductor_0805.fzp core/SMD_inductor_1206.fzp core/SMD_lm358_SO.fzp core/SMD_resistor_0603.fzp core/SMD_resistor_0805.fzp core/SMD_resistor_1206.fzp obsolete/SMD_LED_blue_0603.fzp obsolete/SMD_LED_blue_0805.fzp obsolete/SMD_LED_blue_1206.fzp obsolete/SMD_LED_green_0603.fzp obsolete/SMD_LED_green_0805.fzp obsolete/SMD_LED_green_1206.fzp obsolete/SMD_LED_red_0603.fzp obsolete/SMD_LED_red_0805.fzp obsolete/SMD_LED_red_1206.fzp obsolete/SMD_LED_white_0603.fzp obsolete/SMD_LED_white_0805.fzp obsolete/SMD_LED_white_1206.fzp obsolete/SMD_LED_yellow_0603.fzp obsolete/SMD_LED_yellow_0805.fzp obsolete/SMD_LED_yellow_1206.fzp
+Copyright: 2011 Mr.T
+License: CC-BY-SA-3.0
+
+
+Files: core/LED_Prolight_RGB.fzp
+Copyright: 2011 Niclas Hoyer
+License: CC-BY-SA-3.0
+
+
+Files: core/SN74LS20N.fzp
+Copyright: 2011 Petris Christian
+License: CC-BY-SA-3.0
+
+
+Files: core/SMD_24LC01.fzp
+Copyright: 2011 Revolution Education Ltd
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/TI?Launchpad?MSP430G2__ebb2b2673b63f5dd6fb32b9685c74b9e.fzp
+Copyright: 2011 Sander Isendoorn
+License: CC-BY-SA-3.0
+
+
+Files: core/SN74LS32N.fzp
+Copyright: 2011 Scandola Erik
+License: CC-BY-SA-3.0
+
+
+Files: core/LeDeuligne1.1.fzp core/Memoire-1.0.fzp core/Power?Screwshield?1.0a.fzp core/Rotoshield-1.0a.fzp
+Copyright: 2011 Snootlab
+License: CC-BY-SA-3.0
+
+
+Files: core/HEF4094.fzp
+Copyright: 2011 Sorki
+License: CC-BY-SA-3.0
+
+
+Files: core/10x2-Epaper-Breakout-Board-v11.fzp core/5DOF-v25.fzp core/74HC595?Shift?Reg?Breakout-v11.fzp core/9DoF-Stick-v13.fzp core/ADXL335_v13.fzp core/ADXL345-BreakoutBoard-v13.fzp core/AlphaNumericDisplay-v13.fzp core/ArduPilotMega_v15.fzp core/Arduino?Voice?Shield-v16.fzp core/Arduino-Ethernet-v11.fzp core/ArduinoBluetoothMatev13.fzp core/Ardumoto?v13.fzp core/BMP085?Breakout-v13.fzp core/Breadboard?Power?Supply?-?SMD?v13.fzp core/Color-LCD-Shield-v14.fzp core/DeadOn?RTC?-?DS3234?Breakout-v11.fzp core/EasyDriver_v44.fzp core/FTDI?Basic-v13.fzp core/FTDI?Basic-v13_lily.fzp core/GPSShield-v15.fzp core/Gas_Sensor_Breakout-v12.fzp core/HIH-4030_Breakout-v10.fzp core/HMC5883L_Breakout-v11.fzp core/HMC6352-v18.fzp core/IOIO-v15.fzp core/IR_Receiver_v14.fzp core/ISD1932?Breakout-v11.fzp core/ITG-3200-v11.fzp core/Joystick-Breakout-v11.fzp core/Joystick_Shield-v14.fzp core/L3G4200D-Breakout-v10.fzp core/LSM303?breakout?board-v11.fzp core/Level-Converter-v11.fzp core/LiPo-USB-Charger-v21.fzp core/MIDI?Music?Shield-v13.fzp core/MIDI_Shield-v13.fzp core/MP3?Shield-v13.fzp core/Mega_Shield-v13.fzp core/Modkit?Shield-v1a.fzp core/MonsterMoto-Shield-v12.fzp core/NCP1400_5V_Step-Up_v11.fzp core/OBD-II-UART-v13.fzp core/Op?Amp?Breakout-v16.fzp core/PWM-Shield-v12.fzp core/PowerDriver-Shield-v13.fzp core/PowerIR-v11.fzp core/ProtoShield-Mini-v12.fzp core/ProtoShield-v25.fzp core/RFID_USB_Reader-v14.fzp core/RGB_matrix_v25.fzp core/RN41-v14.fzp core/SI4735?Shield-v13.fzp core/Si470x-Eval-v11.fzp core/TEMT6000_Breakout-v12.fzp core/TMP102_Breakout-v11.fzp core/Touch_Shield-v11.fzp core/Trackballer-v12.fzp core/USBHostShield-v13.fzp core/WiFly_Shield-v17.fzp core/XBee-Regulated-v12.fzp core/ad5330?breakout-v11.fzp core/amplified-mic-electret_15e7e05_002.fzp core/audiojack_breakout-v11.fzp core/canbus_shield-v12.fzp core/cellular?shield-v12.fzp core/gs1011_breakout-v11.fzp core/microSD_Shield-v13.fzp core/mp3-trigger-v22.fzp core/quadstep-v12.fzp core/screwshield-v15.fzp core/thermalprinter.fzp core/xbeeshield-v13.fzp obsolete/Amplified-Mic-Electret-v14.fzp obsolete/Arduino-Pro-Mini-v11.fzp obsolete/LilyPad-Simple-v22.fzp
+Copyright: 2011 SparkFun
+License: CC-BY-SA-3.0
+
+
+Files: core/FTDI?Basic-v13_3.3v.fzp
+Copyright: 2011 Sparkfun
+License: CC-BY-SA-3.0
+
+
+Files: core/7segment_100_an.fzp core/7segment_100_cat.fzp core/7segment_13_an.fzp core/7segment_13_cat.fzp core/7segment_20,32_an.fzp core/7segment_20,32_cat.fzp core/7segment_56,9_an.fzp core/7segment_56,9_cat.fzp core/7segment_9,9_an.fzp core/7segment_9,9_cat.fzp core/LED_Matrix_Kingbright_TA07-11.fzp core/LED_Matrix_Kingbright_TC07-11.fzp core/SMD_HTSSOP28.fzp core/lm34.fzp core/lm35.fzp obsolete/Rotary_Encoder.fzp
+Copyright: 2011 Stefan Hermann
+License: CC-BY-SA-3.0
+
+
+Files: core/DB25F.fzp core/DB25M_41ab500_002.fzp obsolete/DB25M.fzp
+Copyright: 2011 daryl
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/Atmega_168_TQFP32.fzp
+Copyright: 2011 drew
+License: CC-BY-SA-3.0
+
+
+Files: core/ACS712?Low?Current?Sensor?Board?v12.fzp core/SMD_LQFP-32.fzp core/SMD_LQFP-48.fzp core/SMD_QFN-20-0.4MM.fzp core/SMD_QFN-24.fzp core/SMD_QFN-28.fzp core/SMD_QFN-32.fzp core/SMD_QFN-36.fzp core/SMD_QFN-64.fzp core/SMD_SO-24W.fzp core/SMD_SO-24x.fzp core/SMD_SO-28W.fzp core/SMD_SO-28x.fzp core/SMD_SO-32w.fzp core/SMD_SO-32x.fzp core/SMD_SO-36w.fzp core/SMD_SO-36x.fzp core/SMD_SO08.fzp core/SMD_SO08w.fzp core/SMD_SO14.fzp core/SMD_SO14w.fzp core/SMD_SO16.fzp core/SMD_SO16w.fzp core/SMD_SO18W.fzp core/SMD_SO20W.fzp core/SMD_SOIC-14.fzp core/SMD_SOIC18-W.fzp core/SMD_SSOP16.fzp core/SMD_SSOP20.fzp core/SMD_SSOP24.fzp core/SMD_SSOP28DB.fzp core/SMD_SSOP48.fzp core/SMD_TQFP-32-5MM.fzp core/STM32F103.fzp core/proto_shield_v6MEGA.fzp
+Copyright: 2011 jonathan
+License: CC-BY-SA-3.0
+
+
+Files: core/led-rgb-4pin-cathode.fzp core/led_flux_blue_anode.fzp core/led_flux_blue_cathode.fzp core/led_flux_rgb_anode.fzp core/led_flux_rgb_cathode.fzp
+Copyright: 2011 stefanhermann
+License: CC-BY-SA-3.0
+
+
+Files: core/SMD_SO08_EIAJ.fzp
+Copyright: 2011 stephane
+License: CC-BY-SA-3.0
+
+
+Files: core/6DOF-Digital-v10.fzp core/OpenLog.fzp
+Copyright: 2012 Andre Knoerig
+License: CC-BY-SA-3.0
+
+
+Files: core/Proto_shield_REV3.fzp core/Wireless_SD_v3.fzp core/arduinoXbeere.fzp
+Copyright: 2012 Arduino
+License: CC-BY-SA-3.0
+
+
+Files: core/3_Axis_Accelerometer_Breakout___MMA8452Q.fzp
+Copyright: 2012 Azharul Haque
+License: CC-BY-SA-3.0
+
+
+Files: core/M5450_LED_Driver.fzp
+Copyright: 2012 Christopher Mann
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/PCF8574.fzp
+Copyright: 2012 D&C
+License: CC-BY-SA-3.0
+
+
+Files: core/Dual_VNH2SP30_Motor_Driver.fzp
+Copyright: 2012 David Thomasson
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/DIP_Relay_D31A.fzp
+Copyright: 2012 Frank Belau
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/DS18B20__5240d891e23cace35a4de6acc361c049.fzp
+Copyright: 2012 John De Cristofaro for Adafruit Industries
+License: CC-BY-SA-3.0
+
+
+Files: core/DS18B20.fzp obsolete/DS18B20.fzp
+Copyright: 2012 John De Cristofaro for Adafruit Industries, fixed by f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Humidity_and_Temperature_Sensor_RHT03.fzp
+Copyright: 2012 Martha Maldonado
+License: CC-BY-SA-3.0
+
+
+Files: core/ATtiny85.fzp
+Copyright: 2012 Mattia Francesco Moro
+License: CC-BY-SA-3.0
+
+
+Files: core/S1133_Si_Photodiode.fzp
+Copyright: 2012 Nikos Vallianos
+License: CC-BY-SA-3.0
+
+
+Files: core/arduino-mega-r3-shield_one_layer.fzp core/tsop312.fzp obsolete/arduino-mega-r3-shield_two_layer.fzp
+Copyright: 2012 Stefan Hermann
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/SparkFun___Breakout_Board_for_microSD_Transflash_v4__0b0c87ce0a9414b7db3b2898baf3a987.fzp
+Copyright: 2012 Tester
+License: CC-BY-SA-3.0
+
+
+Files: core/PIC_16F877A.fzp
+Copyright: 2012 Uğur Can Bastık
+License: CC-BY-SA-3.0
+
+
+Files: core/RJ45_TRXCOM.fzp obsolete/RJ45_TRXCOM.fzp
+Copyright: 2012 frank
+License: CC-BY-SA-3.0
+
+
+Files: core/New_Aries_28W_ZIF.fzp core/RFM12B_Transceiver_DIP_Package.fzp
+Copyright: 2012 gareth@halfacree.co.uk
+License: CC-BY-SA-3.0
+
+
+Files: core/trimmer_2_1.fzp core/trimmer_2_2.fzp core/trimmer_2_2_hole.fzp core/trimmer_3_1_v.fzp core/trimmer_3_2_v_hole.fzp core/trimmer_3_3_p.fzp core/trimmer_3_4_p.fzp core/trimmer_smd1.fzp core/trimmer_smd2.fzp
+Copyright: 2012 jonathan
+License: CC-BY-SA-3.0
+
+
+Files: core/Digital_Panel_Meter__Voltage__DMS_20PC.fzp obsolete/RFM12b_HopeRF_old_Transceiver.fzp
+Copyright: 2012 red byer
+License: CC-BY-SA-3.0
+
+
+Files: core/EDGY_Analog_In.fzp
+Copyright: 2012 stefanhermann
+License: CC-BY-SA-3.0
+
+
+Files: core/Color_Sensor_Breakout_ADJD_S311.fzp core/Humidity_Sensor_SHT15.fzp
+Copyright: 2012 wreutz
+License: CC-BY-SA-3.0
+
+
+Files: core/audio-jack-4pin-3.5mm-smd-lumberg-jeita-rc-5325A.fzp core/microSD-socket-molex-502774-0891.fzp core/sparkfun-connectors-m01--smtso-256-et.fzp core/sparkfun-connectors-m01-smtra-256-8-6.fzp
+Copyright: 2012 www.fritzing.org
+License: CC-BY-SA-3.0
+
+
+Files: core/Arduino?Nano3(fix).fzp core/Arduino?Nano3(icsp).fzp obsolete/Arduino?Nano3.fzp
+Copyright: 2013 Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/ADI_AD22100KTZ.AnalogDevices_AD22100KTZ.fzp core/ADI_AD22151.AnalogDevices_AD22151YRZ.fzp core/ADI_AD584.AnalogDevices_AD584JNZ.fzp core/ADI_AD654.AnalogDevices_AD654JNZ.fzp core/ADI_AD8210.AnalogDevices_AD8210YRZ.fzp core/ADI_AD8226.AnalogDevices_AD8226ARZ.fzp core/ADI_AD8541.AnalogDevices_AD8541ARZ.fzp core/ADI_AD8561.AnalogDevices_AD8561ANZ.fzp core/ADI_ADMP504CEZ.AnalogDevices_ADMP504CEZ.fzp core/ADI_ADP3300.AnalogDevices_ADP3300ARTZ.fzp core/ADI_ADTL082.AnalogDevices_ADTL082ARZ.fzp core/ADI_ADXL327.AnalogDevices_ADXL327CPZ.fzp core/ADI_OP27.AnalogDevices_OP27GPZ.fzp core/ADI_OP37.AnalogDevices_OP37GPZ.fzp core/ADI_OP482.AnalogDevices_OP482GPZ.fzp core/ADI_SSM2212.AnalogDevices_SSM2212RZ.fzp core/ADI_SSM2220.AnalogDevices_SSM2220S.fzp core/ADI_TMP01.AnalogDevices_TMP01FPZ.fzp
+Copyright: 2013 Analog Devices
+License: CC-BY-SA-3.0
+
+
+Files: core/LM124-324?Quad?Opamp.fzp core/MPX2010?pressure?sensor.fzp
+Copyright: 2013 Andre van Ooijen
+License: CC-BY-SA-3.0
+
+
+Files: core/atlas-sientific_Conductivity?Circuit.fzp core/atlas-sientific_D.O.?Circuit.fzp core/atlas-sientific_Debugger.fzp core/atlas-sientific_ENV-32X.fzp core/atlas-sientific_FLO-30?Circuit.fzp core/atlas-sientific_ORP?Circuit.fzp core/atlas-sientific_PWR-SNS.fzp core/atlas-sientific_Pre-AssembledFemaleBNC.fzp core/atlas-sientific_RJ-11.fzp core/atlas-sientific_Serial?Port?Connector.fzp core/atlas-sientific_pH?Circuit.fzp
+Copyright: 2013 Atlas Scientific
+License: CC-BY-SA-3.0
+
+
+Files: core/Arduino_Pro.fzp core/Buzzer-v15.fzp core/LilyPad?Battery-Connect-v11.fzp core/LilyPad?SimplePower-v13.fzp core/LilyPad-Button-v12.fzp core/LilyPad-Temp-v12.fzp core/LilyPad-slide-switch13.fzp core/Raspberry_Pi_A.fzp core/Raspberry_Pi_B(rev1).fzp core/Raspberry_Pi_B(rev2).fzp core/SMD_Diode_REC_DOAA.fzp core/TI?Launchpad?MSP430G2.fzp core/Teensy?3.0+pads.fzp core/Teensy?3.0.fzp core/Tricolor-LED?v16.fzp core/arduino-mega-rev3-shield_two_layer.fzp core/arduino-shield_r3_two_layer.fzp core/lightblue-bean-shield_two_layer.fzp core/transistor_signal_NPN_TO92_CBE.fzp core/transistor_signal_NPN_TO92_EBC.fzp core/transistor_signal_NPN_TO92_ECB.fzp core/transistor_signal_PNP_TO92_EBC.fzp obsolete/Lilypad_PowerSupply-v16.fzp obsolete/Raspberry_Pi(rev1).fzp obsolete/Raspberry_Pi(rev2).fzp obsolete/Raspberry_Pi.fzp
+Copyright: 2013 Fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/halfMinusBreadboard.fzp
+Copyright: 2013 Jeremy Bennett
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/starter-poti-small.fzp
+Copyright: 2013 Lionel Michel
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/SM130_33794b5e6f145a56453d5bdb762bab0e_2.fzp
+Copyright: 2013 RapidNFC
+License: CC-BY-SA-3.0
+
+
+Files: core/Textile?Analog?Pressure?Sensor.fzp core/Textile?Potentiometer.fzp core/Textile?Pushbutton.fzp core/Textile?Stretch?Sensor.fzp
+Copyright: 2013 Riccardo Marchesi
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/prefix0000_SFE-SEN-11084_05654ad87c1390d7ff5c5e6a1ba23294_6.fzp
+Copyright: 2013 SparkFun and Fritzing Part-o-matic
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/SEN-10621?RPI-1031?Tilt-a-Whirl?Breakout-sfe_c4f3fbd3a94f0953d33d8ac83b51e5ac_3.fzp
+Copyright: 2013 SparkFun and Fritzing toolkit
+License: CC-BY-SA-3.0
+
+
+Files: core/Arduino-Fio-v22(fix)-bottom.fzp core/Arduino-Fio-v22(fix).fzp core/Arduino-Fio-v22(iscp+)-bottom.fzp core/Arduino-Fio-v22(iscp+).fzp core/Arduino-Mini-v5.fzp core/Arduino-Pro-Mini-v13-a4+5.fzp core/Arduino_ADK_MEGA_2560-Rev3(fix).fzp core/Arduino_ADK_MEGA_2560-Rev3(icsp).fzp core/Arduino_DUE_V02b.fzp core/Arduino_Esplora.fzp core/Arduino_Ethernet.fzp core/Arduino_Leonardo_Rev3(fix).fzp core/Arduino_MEGA_2560-Rev3(fix).fzp core/Arduino_Micro_Rev03(fix).fzp core/Arduino_Motor_Shield_rev3.fzp core/LilyPad-Simple-v25.fzp core/LilyPad_Arduino_USB.fzp core/aisler_cloud.fzp core/arduino_Uno_Rev3(fix).fzp core/arduino_uno(rev3)-icsp(1).fzp core/arduino_uno(rev3)-icsp.fzp core/fritzing_donuts-white.fzp core/fritzing_donuts.fzp obsolete/Arduino-Fio-v22.fzp obsolete/Arduino-Pro-Mini-v13.fzp obsolete/Arduino_ADK_MEGA_2560-Rev3.fzp obsolete/Arduino_Leonardo_Rev3.fzp obsolete/Arduino_MEGA_2560-Rev3.fzp obsolete/Arduino_Micro_Rev03.fzp obsolete/arduino_Uno_Rev3.fzp
+Copyright: 2013 althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/GSM-Quectel_updateTID_2_v1.3.fzp core/LilyPad?Coincell-Battery-v17.fzp core/LilyPad-Light?Sensor-v13.fzp core/LilyPad-XBee-v15.fzp core/LilyPad_LED-v14.fzp core/Lilypad_PowerSupply-v18.fzp core/Mainboard-v18.fzp core/PowerSupply-Lipo-v15.fzp core/alps-starter-pot9mm.fzp core/xlr_neutrik_nc3maah.fzp obsolete/PowerSupply-Lipo-v14.fzp
+Copyright: 2013 f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Arduino_bt07.fzp
+Copyright: 2013 fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Shield_Eth06-PoE.fzp core/sparkfun-led-WS2812.fzp core/xbee_realsize.fzp
+Copyright: 2013 fabian althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/CAR_RELE_NVF4-2.fzp core/OMRON_G5LE.fzp core/Rectifier?Diode?10A.fzp core/Rectifier?Diode?10A_standup_on_PCB.fzp
+Copyright: 2013 nail
+License: CC-BY-SA-3.0
+
+
+Files: core/SMD_resistor_0402.fzp core/electromechanical-battery-2-aa.fzp core/electromechanical-battery-2-aaa.fzp core/electromechanical-battery-aa-kit.fzp core/electromechanical-battery-aa.fzp core/electromechanical-battery-aaa.fzp core/sparkfun-analogic-556-.fzp core/sparkfun-analogic-74hc4051_mux-.fzp core/sparkfun-analogic-74hc4052-dip.fzp core/sparkfun-analogic-74hc4052-so.fzp core/sparkfun-analogic-74vhc4052_analog_mux-.fzp core/sparkfun-analogic-acs712-.fzp core/sparkfun-analogic-ad5330-.fzp core/sparkfun-analogic-ad725-.fzp core/sparkfun-analogic-ad7302-smd.fzp core/sparkfun-analogic-ad7745-.fzp core/sparkfun-analogic-ad7781-cruz.fzp core/sparkfun-analogic-ad7781-crz.fzp core/sparkfun-analogic-ad8397-epad-epad.fzp core/sparkfun-analogic-ad9835-.fzp core/sparkfun-analogic-as3400-.fzp core/sparkfun-analogic-dac_mcp4725-sot.fzp core/sparkfun-analogic-ht8950-.fzp core/sparkfun-analogic-lm358-.fzp core/sparkfun-analogic-lm386-.fzp core/sparkfun-analogic-lm393-.fzp core/sparkfun-analogic-lmv324-.fzp core/sparkfun-analogic-lmv358-.fzp core/sparkfun-analogic-lt1014-.fzp core/sparkfun-analogic-ltc6244-.fzp core/sparkfun-analogic-max323-.fzp core/sparkfun-analogic-max6675-.fzp core/sparkfun-analogic-mcp41xxx-.fzp core/sparkfun-analogic-mcp42xxx-.fzp core/sparkfun-analogic-msgeq7-soic.fzp core/sparkfun-analogic-mux-74hc4067-smd.fzp core/sparkfun-analogic-mux-ts3a5017-.fzp core/sparkfun-analogic-ne555-d.fzp core/sparkfun-analogic-ne555-p.fzp core/sparkfun-analogic-opa344-.fzp core/sparkfun-analogic-opamp-dual-.fzp core/sparkfun-analogic-opamp-dual-u.fzp core/sparkfun-analogic-pcm1803-smd.fzp core/sparkfun-analogic-sv74lv4052apwr-.fzp core/sparkfun-analogic-sv74lv4052apwr-2.fzp core/sparkfun-analogic-tvp5150-ntsc_decoder-.fzp core/sparkfun-analogic-x9015_digi_pot-s.fzp core/sparkfun-boards-wiz811mj-.fzp core/sparkfun-boards-xport-.fzp core/sparkfun-boards-xport-direct-.fzp core/sparkfun-boards-xport-direct-smd.fzp core/sparkfun-connectors-50-pin-centronics-f-female.fzp core/sparkfun-connectors-50-pin-centronics-m-male.fzp core/sparkfun-connectors-atx24-rh.fzp core/sparkfun-connectors-audio-jack-2.5mm.fzp core/sparkfun-connectors-audio-jack-pth.fzp core/sparkfun-connectors-audio-jack-smd.fzp core/sparkfun-connectors-audio-jack-smd2.fzp core/sparkfun-connectors-audio-jack-special_pogo_pins.fzp core/sparkfun-connectors-audio-jack2-pth.fzp core/sparkfun-connectors-audio-jack2-smd.fzp core/sparkfun-connectors-avr_mini_prog-smd.fzp core/sparkfun-connectors-avr_spi_prg_6-2x3_lock.fzp core/sparkfun-connectors-avr_spi_prg_6-ns.fzp core/sparkfun-connectors-avr_spi_prg_6-offset_pads.fzp core/sparkfun-connectors-avr_spi_prg_6-pth.fzp core/sparkfun-connectors-avr_spi_prog-.fzp core/sparkfun-connectors-avr_spi_prog2-pth.fzp core/sparkfun-connectors-avr_spi_prog2-smd.fzp core/sparkfun-connectors-banana_conn-.fzp core/sparkfun-connectors-bc9vpc-.fzp core/sparkfun-connectors-bnc-pth.fzp core/sparkfun-connectors-computer-peripheral-power-ra.fzp core/sparkfun-connectors-computer-peripheral-power-vertical.fzp core/sparkfun-connectors-db25-d.fzp core/sparkfun-connectors-db25-h.fzp core/sparkfun-connectors-db25-hp.fzp core/sparkfun-connectors-db25-v.fzp core/sparkfun-connectors-db25-vb.fzp core/sparkfun-connectors-db25-vp.fzp core/sparkfun-connectors-db9-female.fzp core/sparkfun-connectors-db9-male.fzp core/sparkfun-connectors-din7-.fzp core/sparkfun-connectors-ds_touch_connector-.fzp core/sparkfun-connectors-eb-85a-smd.fzp core/sparkfun-connectors-em406-.fzp core/sparkfun-connectors-em408_con-.fzp core/sparkfun-connectors-f25-d.fzp core/sparkfun-connectors-f25-h.fzp core/sparkfun-connectors-f25-hp.fzp core/sparkfun-connectors-f25-v.fzp core/sparkfun-connectors-f25-vb.fzp core/sparkfun-connectors-f25-vp.fzp core/sparkfun-connectors-ftdi_basic-pth.fzp core/sparkfun-connectors-ipod_connector_female-.fzp core/sparkfun-connectors-ipod_connector_male-.fzp core/sparkfun-connectors-kent_lcd_conn-.fzp core/sparkfun-connectors-little_bits_conn-.fzp core/sparkfun-connectors-littlebits_female-.fzp core/sparkfun-connectors-littlebits_male-.fzp core/sparkfun-connectors-m01-offset.fzp core/sparkfun-connectors-m01-smd-4.5x1.5.fzp core/sparkfun-connectors-m01-smd.fzp core/sparkfun-connectors-m01-snap-female.fzp core/sparkfun-connectors-m01-snap-male.fzp core/sparkfun-connectors-m02--jst-2-pth-no_silk.fzp core/sparkfun-connectors-m02--jst-2mm-smt.fzp core/sparkfun-connectors-m02-3.5mm_lock.fzp core/sparkfun-connectors-m02-4ucon-15767.fzp core/sparkfun-connectors-m02-jst-pth-2-kit.fzp core/sparkfun-connectors-m02-jst-pth-2.fzp core/sparkfun-connectors-m02-polar_lock.fzp core/sparkfun-connectors-m02-rocker.fzp core/sparkfun-connectors-m02-spring-2.54-ra.fzp core/sparkfun-connectors-m03-.fzp core/sparkfun-connectors-m03-jst-pth.fzp core/sparkfun-connectors-m03-polar_lock.fzp core/sparkfun-connectors-m03-screw_lock.fzp core/sparkfun-connectors-m03-smd.fzp core/sparkfun-connectors-m04-jst-pth.fzp core/sparkfun-connectors-m04-polar_lock.fzp core/sparkfun-connectors-m04-screw_lock.fzp core/sparkfun-connectors-m04-smd.fzp core/sparkfun-connectors-m04-smd2.fzp core/sparkfun-connectors-m05-smd.fzp core/sparkfun-connectors-m05-smd2.fzp core/sparkfun-connectors-m05x2-pth.fzp core/sparkfun-connectors-m05x2-ra.fzp core/sparkfun-connectors-m05x2-raf.fzp core/sparkfun-connectors-m05x2-shd_smd.fzp core/sparkfun-connectors-m06-1x06-smd_edge_female.fzp core/sparkfun-connectors-m06-em406.fzp core/sparkfun-connectors-m06-polar_lock.fzp core/sparkfun-connectors-m06-ra.fzp core/sparkfun-connectors-m06-ra_lock.fzp core/sparkfun-connectors-m06-smd-female-v2.fzp core/sparkfun-connectors-m06-smd-straight-alt.fzp core/sparkfun-connectors-m06-smd-straight-combo.fzp core/sparkfun-connectors-m06-smd-straight.fzp core/sparkfun-connectors-m06-smd.fzp core/sparkfun-connectors-m06-smdf.fzp core/sparkfun-connectors-m08-bm08b-srss-tb.fzp core/sparkfun-connectors-m08-smd-combo.fzp core/sparkfun-connectors-m08-smd-straight-alt.fzp core/sparkfun-connectors-m08-smd-straight.fzp core/sparkfun-connectors-m10-2mmsmd.fzp core/sparkfun-connectors-m10x2-2x10_lock.fzp core/sparkfun-connectors-m10x2-special.fzp core/sparkfun-connectors-m11-smd.fzp core/sparkfun-connectors-m11-smd_no_holes.fzp core/sparkfun-connectors-m12-machine-pin_lock.fzp core/sparkfun-connectors-m16-machiine-pin_lock.fzp core/sparkfun-connectors-m40-offset.fzp core/sparkfun-connectors-magjack-.fzp core/sparkfun-connectors-magjack-2-.fzp core/sparkfun-connectors-magjack-poe-.fzp core/sparkfun-connectors-midi_conn_female-.fzp core/sparkfun-connectors-midi_conn_female_support-.fzp core/sparkfun-connectors-mini-din6-pth.fzp core/sparkfun-connectors-mma_accel_connector-.fzp core/sparkfun-connectors-obdii-.fzp core/sparkfun-connectors-pic-icsp-mini-.fzp core/sparkfun-connectors-pic-icsp-polar_lock.fzp core/sparkfun-connectors-pic-icsp-pth.fzp core/sparkfun-connectors-power_jack-combo.fzp core/sparkfun-connectors-power_jack-pth.fzp core/sparkfun-connectors-power_jack-pth_lock.fzp core/sparkfun-connectors-power_jack-slt.fzp core/sparkfun-connectors-power_jack-smd.fzp core/sparkfun-connectors-psp_connector-.fzp core/sparkfun-connectors-psp_touch_connector-.fzp core/sparkfun-connectors-rca--lock.fzp core/sparkfun-connectors-rca-.fzp core/sparkfun-connectors-rj45-8-pth-fix.fzp core/sparkfun-connectors-rj45-8-pth-fix2.fzp core/sparkfun-connectors-rj9-pth.fzp core/sparkfun-connectors-screenkeymatingconnector-.fzp core/sparkfun-connectors-sd_card_socket-4ucon.fzp core/sparkfun-connectors-simholder-.fzp core/sparkfun-connectors-simholder2-.fzp core/sparkfun-connectors-simholder3-.fzp core/sparkfun-connectors-sma_edge-.fzp core/sparkfun-connectors-smartcard-smd.fzp core/sparkfun-connectors-starboard_gnd--small.fzp core/sparkfun-connectors-starboard_gnd--small2.fzp core/sparkfun-connectors-starboard_gnd--wide.fzp core/sparkfun-connectors-starboard_gnd-.fzp core/sparkfun-connectors-starboard_pwr--tall.fzp core/sparkfun-connectors-starboard_pwr--wide.fzp core/sparkfun-connectors-touch-screen-.fzp core/sparkfun-connectors-u.fl-.fzp core/sparkfun-connectors-usb--a-h.fzp core/sparkfun-connectors-usb--a-s.fzp core/sparkfun-connectors-usb--a-smd.fzp core/sparkfun-connectors-usb--b-s.fzp core/sparkfun-connectors-usb--jst-2mm-smt.fzp core/sparkfun-connectors-usb--mb-h.fzp core/sparkfun-connectors-usb--microb.fzp core/sparkfun-connectors-usb--smd-ns.fzp core/sparkfun-connectors-usb-_.fzp core/sparkfun-connectors-usb-minib--5pin.fzp core/sparkfun-connectors-usb-old.fzp core/sparkfun-connectors-usb-pcb.fzp core/sparkfun-connectors-usb-pth-vertical.fzp core/sparkfun-connectors-usb-pth.fzp core/sparkfun-connectors-usb-smd.fzp core/sparkfun-connectors-usb-usb-a-s-nosilk.fzp core/sparkfun-connectors-usb_ab-.fzp core/sparkfun-connectors-usb_microb_plug--pth.fzp core/sparkfun-connectors-usb_microb_plug--pth2.fzp core/sparkfun-connectors-usb_microb_plug--smt.fzp core/sparkfun-connectors-usb_microb_plug-.fzp core/sparkfun-connectors-usb_shield-.fzp core/sparkfun-connectors-usd-socket-new.fzp core/sparkfun-connectors-usd-socket-usd.fzp core/sparkfun-connectors-watn001002bf-.fzp core/sparkfun-connectors-xlr3_ncfah2-.fzp core/sparkfun-connectors-zifsocket-28-3-ziffsocket-28-3.fzp core/sparkfun-connectors-zifsocket-40-6-dil40-6-zif_socket.fzp core/sparkfun-connectors-zune_connector_male-.fzp core/sparkfun-digitalic-74_08-se.fzp core/sparkfun-digitalic-74_157-fk.fzp core/sparkfun-digitalic-74_157-n.fzp core/sparkfun-digitalic-74_157-so.fzp core/sparkfun-digitalic-74_32-se.fzp core/sparkfun-digitalic-74_595-.fzp core/sparkfun-digitalic-74_595-d.fzp core/sparkfun-digitalic-74_595-fk.fzp core/sparkfun-digitalic-74_595-n.fzp core/sparkfun-digitalic-74act125d-.fzp core/sparkfun-digitalic-74ahc1g08-.fzp core/sparkfun-digitalic-74hc04_hex_inverter-.fzp core/sparkfun-digitalic-74lvc138ad-.fzp core/sparkfun-digitalic-a6282--es.fzp core/sparkfun-digitalic-a6282--lp.fzp core/sparkfun-digitalic-at25fs010-.fzp core/sparkfun-digitalic-at45db041b-.fzp core/sparkfun-digitalic-at45db041b-wide.fzp core/sparkfun-digitalic-at45db161d-.fzp core/sparkfun-digitalic-atmega128--smd.fzp core/sparkfun-digitalic-atmega128-_smd.fzp core/sparkfun-digitalic-atmega168-.fzp core/sparkfun-digitalic-atmega168-mlf.fzp core/sparkfun-digitalic-atmega2560-au.fzp core/sparkfun-digitalic-atmega32u4-qfn.fzp core/sparkfun-digitalic-atmega32u4-qfn2.fzp core/sparkfun-digitalic-atmega8u2-au.fzp core/sparkfun-digitalic-attiny13-dip.fzp core/sparkfun-digitalic-attiny13-soic.fzp core/sparkfun-digitalic-attiny24-qfn.fzp core/sparkfun-digitalic-attiny45-.fzp core/sparkfun-digitalic-attiny45-dip8.fzp core/sparkfun-digitalic-avr-mega8--ai.fzp core/sparkfun-digitalic-avr-mega8--mi.fzp core/sparkfun-digitalic-avr-mega8-p-kit.fzp core/sparkfun-digitalic-avr-mega8-p-pth.fzp core/sparkfun-digitalic-avr-mega8-p-sim.fzp core/sparkfun-digitalic-avr-mega8-p-zif_socket.fzp core/sparkfun-digitalic-cp2103_usb_uart-.fzp core/sparkfun-digitalic-cp210x_usb_uart-.fzp core/sparkfun-digitalic-cy7c64215-.fzp core/sparkfun-digitalic-dosonchip-ic-lqfp.fzp core/sparkfun-digitalic-dosonchip-ic-qfn.fzp core/sparkfun-digitalic-dosonchip-ic-qfn_alt1.fzp core/sparkfun-digitalic-dspic30f4011-.fzp core/sparkfun-digitalic-dspic30f4011-dil.fzp core/sparkfun-digitalic-dspic30f6015-smd.fzp core/sparkfun-digitalic-dspic33fj256gp710-_.fzp core/sparkfun-digitalic-eeprom-i2c-smd.fzp core/sparkfun-digitalic-enc28j60-.fzp core/sparkfun-digitalic-ep2c8_pq208-.fzp core/sparkfun-digitalic-ft2232d-.fzp core/sparkfun-digitalic-ft232rl-basic-ssop.fzp core/sparkfun-digitalic-ft232rl-ssop.fzp core/sparkfun-digitalic-ft232rq-.fzp core/sparkfun-digitalic-ft245rl-.fzp core/sparkfun-digitalic-hef4543-pth.fzp core/sparkfun-digitalic-hex_converter-.fzp core/sparkfun-digitalic-icl3232-.fzp core/sparkfun-digitalic-inverter-.fzp core/sparkfun-digitalic-inverter-__.fzp core/sparkfun-digitalic-inverting_schmitt_trigger-.fzp core/sparkfun-digitalic-isd1900-isd1932.fzp core/sparkfun-digitalic-lpc2103-.fzp core/sparkfun-digitalic-lpc213x-.fzp core/sparkfun-digitalic-m74hc238-.fzp core/sparkfun-digitalic-m93c46-.fzp core/sparkfun-digitalic-max232-pth.fzp core/sparkfun-digitalic-max232-soic16.fzp core/sparkfun-digitalic-max3421e-smd.fzp core/sparkfun-digitalic-max485-dil.fzp core/sparkfun-digitalic-max7219-dip.fzp core/sparkfun-digitalic-max7456-.fzp core/sparkfun-digitalic-max7456-groundpad.fzp core/sparkfun-digitalic-mbed_nxp_lpc1768-.fzp core/sparkfun-digitalic-mc9s12xs64-.fzp core/sparkfun-digitalic-mcp130-sot.fzp core/sparkfun-digitalic-mcp2551-.fzp core/sparkfun-digitalic-nand256-.fzp core/sparkfun-digitalic-nc7wz07-.fzp core/sparkfun-digitalic-ncp303lsn09-.fzp core/sparkfun-digitalic-p8x32a-q44-.fzp core/sparkfun-digitalic-pca9306-.fzp core/sparkfun-digitalic-pcf8575c-.fzp core/sparkfun-digitalic-pic16f688-smd.fzp core/sparkfun-digitalic-pic16f88-dip-.fzp core/sparkfun-digitalic-pic16f88-ssop-.fzp core/sparkfun-digitalic-pic16f883-.fzp core/sparkfun-digitalic-pic16f913-soic28.fzp core/sparkfun-digitalic-pic18f2455-smd.fzp core/sparkfun-digitalic-pic18f2550-.fzp core/sparkfun-digitalic-pic24fxxxdax06-.fzp core/sparkfun-digitalic-pic24hj32gp202-dip.fzp core/sparkfun-digitalic-pic24hj32gp202-smd.fzp core/sparkfun-digitalic-pic32mx440f512h-.fzp core/sparkfun-digitalic-pl-2303xa-.fzp core/sparkfun-digitalic-rs485-soic.fzp core/sparkfun-digitalic-rs485_sp491-.fzp core/sparkfun-digitalic-sc16is750-.fzp core/sparkfun-digitalic-scantool-.fzp core/sparkfun-digitalic-sn74hc251-_smd.fzp core/sparkfun-digitalic-sn74lvc1g08-.fzp core/sparkfun-digitalic-speakjet-dip.fzp core/sparkfun-digitalic-speakjet-smd.fzp core/sparkfun-digitalic-spi_flash-x25xx-smd.fzp core/sparkfun-digitalic-spi_flash-x25xx-smd1.fzp core/sparkfun-digitalic-stm811-.fzp core/sparkfun-digitalic-stp16cp05-.fzp core/sparkfun-digitalic-stw5093-.fzp core/sparkfun-digitalic-tc7su04f-.fzp core/sparkfun-digitalic-tja1040-.fzp core/sparkfun-digitalic-tlc5940--nt.fzp core/sparkfun-digitalic-tlc5940--rhb.fzp core/sparkfun-digitalic-tlc5940-pwp.fzp core/sparkfun-digitalic-ubw32_pic32mx4xxl-tqfp100.fzp core/sparkfun-digitalic-um-fpu_v3_1-dil.fzp core/sparkfun-digitalic-um-fpu_v3_1-so.fzp core/sparkfun-digitalic-unbuffered_inverter-.fzp core/sparkfun-digitalic-usb3318-.fzp core/sparkfun-digitalic-vs1000-.fzp core/sparkfun-digitalic-vs1002-.fzp core/sparkfun-digitalic-vs1033-.fzp core/sparkfun-digitalic-vs1103-.fzp core/sparkfun-digitalic-w5100-.fzp core/sparkfun-digitalic-ws2801-.fzp core/sparkfun-digitalic-wtv020sd-.fzp core/sparkfun-digitalic-xc3s250_500e-pq208-.fzp core/sparkfun-digitalic-xmega-100-smd.fzp core/sparkfun-digitalic-xmega-a3--au.fzp core/sparkfun-digitalic-xr2206-.fzp core/sparkfun-digitalic-xs1_l1_64lqfp-.fzp core/sparkfun-discretesemi-bav99-.fzp core/sparkfun-discretesemi-bc847pn-.fzp core/sparkfun-discretesemi-cnz1120-pth.fzp core/sparkfun-discretesemi-diode-schottky-_.fzp core/sparkfun-discretesemi-diode-sma-alt.fzp core/sparkfun-discretesemi-diode-sma-kit.fzp core/sparkfun-discretesemi-diode-sma.fzp core/sparkfun-discretesemi-diode-smb.fzp core/sparkfun-discretesemi-diode-sod.fzp core/sparkfun-discretesemi-diode-sod523.fzp core/sparkfun-discretesemi-diode-sot23.fzp core/sparkfun-discretesemi-diode-zener--bzt52.fzp core/sparkfun-discretesemi-diode-zener-pth.fzp core/sparkfun-discretesemi-diode-zener-smb.fzp core/sparkfun-discretesemi-gp1a57hr-.fzp core/sparkfun-discretesemi-ild213t-.fzp core/sparkfun-discretesemi-irf7507-.fzp core/sparkfun-discretesemi-mmbz27vclt1-.fzp core/sparkfun-discretesemi-mmdt3904-.fzp core/sparkfun-discretesemi-moc3031-m-.fzp core/sparkfun-discretesemi-mosfet-nchannel-fdd8580.fzp core/sparkfun-discretesemi-mosfet-nchannel-pth.fzp core/sparkfun-discretesemi-mosfet-nchannel-pth2.fzp core/sparkfun-discretesemi-mosfet-nchannel-smd.fzp core/sparkfun-discretesemi-mosfet-nchannel-soic8-.fzp core/sparkfun-discretesemi-mosfet-nchannel-sot323.fzp core/sparkfun-discretesemi-mosfet-pchannel-smd.fzp core/sparkfun-discretesemi-mosfet-pchannel-soic8-soic8.fzp core/sparkfun-discretesemi-nds8434-.fzp core/sparkfun-discretesemi-opto_darl_6n138s-.fzp core/sparkfun-discretesemi-tcmt1103-opto-.fzp core/sparkfun-discretesemi-transistor_npn-_.fzp core/sparkfun-discretesemi-transistor_npn-sot23-3.fzp core/sparkfun-discretesemi-transistor_npn-sot23.fzp core/sparkfun-discretesemi-transistor_npn-sot89.fzp core/sparkfun-discretesemi-transistor_npn-to-92-ammo.fzp core/sparkfun-discretesemi-transistor_npn-to92.fzp core/sparkfun-discretesemi-transistor_npn_2-pth.fzp core/sparkfun-discretesemi-transistor_pnp-.fzp core/sparkfun-discretesemi-transistor_pnp-smd.fzp core/sparkfun-discretesemi-transistor_pnp-to92.fzp core/sparkfun-discretesemi-triac-pth.fzp core/sparkfun-discretesemi-triac-smd.fzp core/sparkfun-discretesemi-tvs-.fzp core/sparkfun-discretesemi-v-reference-smd.fzp core/sparkfun-discretesemi-v18za2p-.fzp core/sparkfun-discretesemi-varistor--0402.fzp core/sparkfun-discretesemi-varistor--0603.fzp core/sparkfun-discretesemi-xn04312-sot.fzp core/sparkfun-displays-7-segment-4digit-.fzp core/sparkfun-displays-7-segment-4digit-for_pogobed_only.fzp core/sparkfun-displays-7-segment-4digit-pth.fzp core/sparkfun-displays-7-segment-4digit-youngsun-.fzp core/sparkfun-displays-7-segment-4digit-youngsun-longpads.fzp core/sparkfun-displays-7-segment-display-1_-red-.fzp core/sparkfun-displays-7-segment-display-pth.fzp core/sparkfun-displays-alphanumeric-pth.fzp core/sparkfun-displays-lcd-16x2-8x2-kit.fzp core/sparkfun-displays-lcd-16x2-8x2.fzp core/sparkfun-displays-lcd-16x2-noholes.fzp core/sparkfun-displays-lcd-16x2-nosilk.fzp core/sparkfun-displays-lcd-16x2-silk.fzp core/sparkfun-displays-lcd-g12864-bare.fzp core/sparkfun-displays-lcd-g12864-full.fzp core/sparkfun-displays-lcd_backlight_pads-.fzp core/sparkfun-displays-lcd_cfax-.fzp core/sparkfun-displays-nokia6100_lcd-.fzp core/sparkfun-electromechanical-6400bg_heatsink-.fzp core/sparkfun-electromechanical-ayz0202-.fzp core/sparkfun-electromechanical-battery-1100.fzp core/sparkfun-electromechanical-battery-12mm.fzp core/sparkfun-electromechanical-battery-12pth.fzp core/sparkfun-electromechanical-battery-20mm_4legs.fzp core/sparkfun-electromechanical-battery-20pth.fzp core/sparkfun-electromechanical-battery-20pth2.fzp core/sparkfun-electromechanical-battery-20smd.fzp core/sparkfun-electromechanical-battery-245mm.fzp core/sparkfun-electromechanical-battery-245pth.fzp core/sparkfun-electromechanical-battery-aa-panel.fzp core/sparkfun-electromechanical-battery-aa.fzp core/sparkfun-electromechanical-battery-fob.fzp core/sparkfun-electromechanical-button-conductive-.fzp core/sparkfun-electromechanical-button-conductive-smd-0.1_.fzp core/sparkfun-electromechanical-button-conductive-smd.fzp core/sparkfun-electromechanical-button-magnetic-10mm-female.fzp core/sparkfun-electromechanical-button-magnetic-10mm-male.fzp core/sparkfun-electromechanical-button-magnetic-18mm-female.fzp core/sparkfun-electromechanical-button-magnetic-18mm-male.fzp core/sparkfun-electromechanical-buttonpad-2x2--special.fzp core/sparkfun-electromechanical-buttonpad-2x2-.fzp core/sparkfun-electromechanical-buttonpad-2x2single-.fzp core/sparkfun-electromechanical-buttonpad-2x2single-kit.fzp core/sparkfun-electromechanical-buttonpad-4x4-.fzp core/sparkfun-electromechanical-buttonpad-4x4-special.fzp core/sparkfun-electromechanical-buzzer-ns.fzp core/sparkfun-electromechanical-buzzer-pth-ns-kit.fzp core/sparkfun-electromechanical-buzzer-pth.fzp core/sparkfun-electromechanical-buzzer-smd.fzp core/sparkfun-electromechanical-buzzer-smd2-kit.fzp core/sparkfun-electromechanical-buzzer-smd2.fzp core/sparkfun-electromechanical-buzzer-smd3.fzp core/sparkfun-electromechanical-capsense_pad-.fzp core/sparkfun-electromechanical-encoder-quadrature-.fzp core/sparkfun-electromechanical-encoder_2led-.fzp core/sparkfun-electromechanical-encoder_rgb_ca-.fzp core/sparkfun-electromechanical-fkit-coin_cell-lir2450-h.fzp core/sparkfun-electromechanical-fkit-ribbon_connector--2mm_l_rev2.fzp core/sparkfun-electromechanical-fkit-ribbon_connector--2mm_r_rev2.fzp core/sparkfun-electromechanical-fkit-snap_connector--female.fzp core/sparkfun-electromechanical-fkit-snap_connector--male.fzp core/sparkfun-electromechanical-g3vm-61e1-.fzp core/sparkfun-electromechanical-joystick-psp1000-.fzp core/sparkfun-electromechanical-joystick-pth.fzp core/sparkfun-electromechanical-joystick_mini-.fzp core/sparkfun-electromechanical-lipo-outline-100.fzp core/sparkfun-electromechanical-lipo-outline-1100.fzp core/sparkfun-electromechanical-lipo-outline-2000.fzp core/sparkfun-electromechanical-magnet-18mm.fzp core/sparkfun-electromechanical-motor-10mm.fzp core/sparkfun-electromechanical-n35p112-.fzp core/sparkfun-electromechanical-nav_switch-smd.fzp core/sparkfun-electromechanical-pot--rv16af-20.fzp core/sparkfun-electromechanical-pot-.fzp core/sparkfun-electromechanical-pot-100k_3362u.fzp core/sparkfun-electromechanical-pot-mam.fzp core/sparkfun-electromechanical-pot-trim.fzp core/sparkfun-electromechanical-pot_switch-pot_pth.fzp core/sparkfun-electromechanical-pot_switch-pot_pth_switch.fzp core/sparkfun-electromechanical-relay-2-g5q.fzp core/sparkfun-electromechanical-relay-pth.fzp core/sparkfun-electromechanical-relay-pth2.fzp core/sparkfun-electromechanical-relay-pth3.fzp core/sparkfun-electromechanical-relay-pth4.fzp core/sparkfun-electromechanical-relay-solidstate-pth.fzp core/sparkfun-electromechanical-slider-.fzp core/sparkfun-electromechanical-speaker-.fzp core/sparkfun-electromechanical-stand-off-.fzp core/sparkfun-electromechanical-stand-off-tight.fzp core/sparkfun-electromechanical-sw_dip-2-.fzp core/sparkfun-electromechanical-sw_dip-8-.fzp core/sparkfun-electromechanical-switch-4pdt-cnk_lock.fzp core/sparkfun-electromechanical-switch-dpdt-eg2211.fzp core/sparkfun-electromechanical-switch-dpdt-es.fzp core/sparkfun-electromechanical-switch-dpdt-gpi.fzp core/sparkfun-electromechanical-switch-dpdt-os.fzp core/sparkfun-electromechanical-switch-dpdt-pth.fzp core/sparkfun-electromechanical-switch-dpdt-pth1.fzp core/sparkfun-electromechanical-switch-dpdt-smd.fzp core/sparkfun-electromechanical-switch-momentary-2--smd-1101ne.fzp core/sparkfun-electromechanical-switch-momentary-2-.fzp core/sparkfun-electromechanical-switch-momentary-2-12mm.fzp core/sparkfun-electromechanical-switch-momentary-2-pth.fzp core/sparkfun-electromechanical-switch-momentary-2-pth_reed.fzp core/sparkfun-electromechanical-switch-momentary-2-pth_reed2.fzp core/sparkfun-electromechanical-switch-momentary-2-smd-2.fzp core/sparkfun-electromechanical-switch-momentary-2-smd.fzp core/sparkfun-electromechanical-switch-sp3t-.fzp core/sparkfun-electromechanical-switch-spdt--smd-a.fzp core/sparkfun-electromechanical-switch-spdt-kit.fzp core/sparkfun-electromechanical-switch-spdt-pth.fzp core/sparkfun-electromechanical-switch-spdt-pth2.fzp core/sparkfun-electromechanical-switch-spdt-pth3.fzp core/sparkfun-electromechanical-switch-spdt-pth_lock.fzp core/sparkfun-electromechanical-switch-spdt-smd.fzp core/sparkfun-electromechanical-switch-spdt-smd2.fzp core/sparkfun-electromechanical-switch-spst-2-ra.fzp core/sparkfun-electromechanical-switch-spst-2-tv.fzp core/sparkfun-electromechanical-switch_spdt-.fzp core/sparkfun-electromechanical-tac_switch-ksa_sealed.fzp core/sparkfun-electromechanical-tac_switch-pth.fzp core/sparkfun-electromechanical-tac_switch-smd.fzp core/sparkfun-electromechanical-trackball-mech.fzp core/sparkfun-electromechanical-trimpot--2.fzp core/sparkfun-electromechanical-trimpot--pth-knob.fzp core/sparkfun-electromechanical-trimpot-3362u-2.fzp core/sparkfun-electromechanical-trimpot-3mm-2.fzp core/sparkfun-electromechanical-trimpot-pth.fzp core/sparkfun-electromechanical-trimpot-smd.fzp core/sparkfun-electromechanical-trimpot-trimpot-5mm.fzp core/sparkfun-electromechanical-trimpot-trimpot_pth_s3_lock.fzp core/sparkfun-freqctrl-crystal-10.5x4.8.fzp core/sparkfun-freqctrl-crystal-32-smd.fzp core/sparkfun-freqctrl-crystal-5x3.fzp core/sparkfun-freqctrl-crystal-epsonmc146.fzp core/sparkfun-freqctrl-crystal-hc49us.fzp core/sparkfun-freqctrl-crystal-hc49uv.fzp core/sparkfun-freqctrl-crystal-smd.fzp core/sparkfun-freqctrl-crystal-tc26h.fzp core/sparkfun-freqctrl-crystal-tc38h.fzp core/sparkfun-freqctrl-ds1077-.fzp core/sparkfun-freqctrl-ds1307-so8.fzp core/sparkfun-freqctrl-ds3234-.fzp core/sparkfun-freqctrl-oscillator-5x3-pin1-indicated.fzp core/sparkfun-freqctrl-oscillator-5x3.fzp core/sparkfun-freqctrl-oscillator-smd.fzp core/sparkfun-freqctrl-oscillator-smd6.fzp core/sparkfun-freqctrl-resonator-pth.fzp core/sparkfun-freqctrl-resonator-smd.fzp core/sparkfun-freqctrl-resonator-wide-.fzp core/sparkfun-freqctrl-resonator_nocap-.fzp core/sparkfun-freqctrl-sit8002-.fzp core/sparkfun-led-apa3010sf4c-.fzp core/sparkfun-led-led--fkit-1206.fzp core/sparkfun-led-led-0603.fzp core/sparkfun-led-led-10mm_fix.fzp core/sparkfun-led-led-1206.fzp core/sparkfun-led-led-tricolor-.fzp core/sparkfun-led-led_bargraph_10-.fzp core/sparkfun-led-led_ring-.fzp core/sparkfun-led-lightpipe-7511-.fzp core/sparkfun-led-lte-302-.fzp core/sparkfun-led-luxeon-rebel-.fzp core/sparkfun-led-luxeon-smd.fzp core/sparkfun-passives-cap-0402-cap.fzp core/sparkfun-passives-cap-0603-cap.fzp core/sparkfun-passives-cap-0805.fzp core/sparkfun-passives-cap-1206.fzp core/sparkfun-passives-cap-1210.fzp core/sparkfun-passives-cap-_.fzp core/sparkfun-passives-cap-asmd.fzp core/sparkfun-passives-cap-kit.fzp core/sparkfun-passives-cap-pth.fzp core/sparkfun-passives-cap-pth1.fzp core/sparkfun-passives-cap-pth2.fzp core/sparkfun-passives-cap-pth3.fzp core/sparkfun-passives-cap-smd.fzp core/sparkfun-passives-cap_adj-smd.fzp core/sparkfun-passives-cap_pol-1206-kit.fzp core/sparkfun-passives-cap_pol-1206.fzp core/sparkfun-passives-cap_pol-3528-kit.fzp core/sparkfun-passives-cap_pol-3528.fzp core/sparkfun-passives-cap_pol-6032.fzp core/sparkfun-passives-cap_pol-7343.fzp core/sparkfun-passives-cap_pol-c.fzp core/sparkfun-passives-cap_pol-d.fzp core/sparkfun-passives-cap_pol-e.fzp core/sparkfun-passives-cap_pol-en_j2.fzp core/sparkfun-passives-cap_pol-f80.fzp core/sparkfun-passives-cap_pol-g.fzp core/sparkfun-passives-cap_pol-h13.fzp core/sparkfun-passives-cap_pol-pth1.fzp core/sparkfun-passives-cap_pol-pth2.fzp core/sparkfun-passives-cap_pol-pth3.fzp core/sparkfun-passives-cap_pol-pth4.fzp core/sparkfun-passives-cap_pol-smd.fzp core/sparkfun-passives-fb-.fzp core/sparkfun-passives-fuse-x20mm.fzp core/sparkfun-passives-gnd_connect-.fzp core/sparkfun-passives-inductor--.fzp core/sparkfun-passives-inductor--b82462g.fzp core/sparkfun-passives-inductor-..fzp core/sparkfun-passives-inductor-0402.fzp core/sparkfun-passives-inductor-0603.fzp core/sparkfun-passives-inductor-0805.fzp core/sparkfun-passives-inductor-1007.fzp core/sparkfun-passives-inductor-1210.fzp core/sparkfun-passives-inductor-_.fzp core/sparkfun-passives-inductor-cr54-kit.fzp core/sparkfun-passives-inductor-cr54.fzp core/sparkfun-passives-inductor-cr75.fzp core/sparkfun-passives-inductor-cr75_v2.fzp core/sparkfun-passives-inductor-h_.fzp core/sparkfun-passives-inductor-npi75.fzp core/sparkfun-passives-inductor-pwr.fzp core/sparkfun-passives-inductor-sru1038.fzp core/sparkfun-passives-inductor-sru5028.fzp core/sparkfun-passives-jumper-2-old-smd-nc.fzp core/sparkfun-passives-jumper-2-old-smd-no.fzp core/sparkfun-passives-jumper-2-smd-nc.fzp core/sparkfun-passives-jumper-2-smd-no-ns.fzp core/sparkfun-passives-jumper-2-smd-no.fzp core/sparkfun-passives-jumper-3-1-2.fzp core/sparkfun-passives-jumper-3-2-3.fzp core/sparkfun-passives-jumper-3-old-1-2.fzp core/sparkfun-passives-jumper-3-old-2-3.fzp core/sparkfun-passives-jumper-3-old-smd.fzp core/sparkfun-passives-jumper-3-smd.fzp core/sparkfun-passives-resistor-2010smd.fzp core/sparkfun-passives-resistor-2512smd.fzp core/sparkfun-passives-resistor-array-0603-arv.fzp core/sparkfun-passives-rpack_--bussed-sip-pth-5.fzp core/sparkfun-passives-solderjumper-nc.fzp core/sparkfun-passives-solderjumper-nc2.fzp core/sparkfun-passives-solderjumper-no.fzp core/sparkfun-passives-solderjumper-old-nc.fzp core/sparkfun-passives-solderjumper-old-nc2.fzp core/sparkfun-passives-solderjumper-old-no.fzp core/sparkfun-passives-solderjumper-old-trace.fzp core/sparkfun-passives-solderjumper-trace.fzp core/sparkfun-passives-solderjumper_2way-old-paste1_2.fzp core/sparkfun-passives-solderjumper_2way-old-paste2_3.fzp core/sparkfun-passives-solderjumper_2way-old-s.fzp core/sparkfun-passives-solderjumper_2way-old-t.fzp core/sparkfun-passives-solderjumper_2way-old-w.fzp core/sparkfun-passives-solderjumper_2way-paste1_2.fzp core/sparkfun-passives-solderjumper_2way-paste2_3.fzp core/sparkfun-passives-solderjumper_2way-s.fzp core/sparkfun-passives-solderjumper_2way-t.fzp core/sparkfun-passives-solderjumper_2way-w.fzp core/sparkfun-passives-test-point-2.fzp core/sparkfun-passives-test-point-3.fzp core/sparkfun-passives-test-point-3x5.fzp core/sparkfun-poweric-a4983-.fzp core/sparkfun-poweric-adm1087-sc-70.fzp core/sparkfun-poweric-bd10ka5wf-e2-.fzp core/sparkfun-poweric-bq24022-.fzp core/sparkfun-poweric-dc-dc_converter-.fzp core/sparkfun-poweric-hv826mg_backlight-.fzp core/sparkfun-poweric-l298-.fzp core/sparkfun-poweric-l298-heatsink.fzp core/sparkfun-poweric-l298_bridge_driver-.fzp core/sparkfun-poweric-l6470-.fzp core/sparkfun-poweric-lm2621-smd.fzp core/sparkfun-poweric-lm2931-.fzp core/sparkfun-poweric-lm2931_fixed-.fzp core/sparkfun-poweric-lm3480im4-.fzp core/sparkfun-poweric-lm4128-2.5vref-.fzp core/sparkfun-poweric-lm4871-.fzp core/sparkfun-poweric-lm5007-.fzp core/sparkfun-poweric-lm5574-.fzp core/sparkfun-poweric-lmd1820x-.fzp core/sparkfun-poweric-lmz14203-.fzp core/sparkfun-poweric-lt1528-.fzp core/sparkfun-poweric-ltc3588-_.fzp core/sparkfun-poweric-max1555-.fzp core/sparkfun-poweric-max1704x-.fzp core/sparkfun-poweric-max98300-eta_.fzp core/sparkfun-poweric-max98306-etd_.fzp core/sparkfun-poweric-mc34063-smd.fzp core/sparkfun-poweric-mcp73831-.fzp core/sparkfun-poweric-mcp73833-.fzp core/sparkfun-poweric-mcp7384xx-.fzp core/sparkfun-poweric-mic2571-smd.fzp core/sparkfun-poweric-njm2670-smd.fzp core/sparkfun-poweric-pq1cy1032z-.fzp core/sparkfun-poweric-ptc-0603.fzp core/sparkfun-poweric-ptc-pth.fzp core/sparkfun-poweric-ptc-smd.fzp core/sparkfun-poweric-spx29302-.fzp core/sparkfun-poweric-sta540-.fzp core/sparkfun-poweric-sta540-w_6400bg_heatsink.fzp core/sparkfun-poweric-sta540-w_yb324g_heatsink.fzp core/sparkfun-poweric-tb6621fng-.fzp core/sparkfun-poweric-tps61200-.fzp core/sparkfun-poweric-tps6211_-.fzp core/sparkfun-poweric-tps6214x-.fzp core/sparkfun-poweric-transformer-pth.fzp core/sparkfun-poweric-transformer-smd.fzp core/sparkfun-poweric-uln2803-dip.fzp core/sparkfun-poweric-uln2803-soic.fzp core/sparkfun-poweric-uln2803-soicw.fzp core/sparkfun-poweric-v_reg_317-dpack.fzp core/sparkfun-poweric-v_reg_317-sink.fzp core/sparkfun-poweric-v_reg_317-smd.fzp core/sparkfun-poweric-v_reg_78xx--to-220.fzp core/sparkfun-poweric-v_reg_78xx-side.fzp core/sparkfun-poweric-v_reg_78xx-sink.fzp core/sparkfun-poweric-v_reg_78xx-to-92.fzp core/sparkfun-poweric-v_reg_ld1085-d2.fzp core/sparkfun-poweric-v_reg_ld1117vxx-.fzp core/sparkfun-poweric-v_reg_ldo-smd.fzp core/sparkfun-poweric-v_reg_ldo-smd2.fzp core/sparkfun-poweric-v_reg_lm1117-sot223.fzp core/sparkfun-poweric-v_reg_mc33269-dt.fzp core/sparkfun-poweric-v_reg_mic2920-.fzp core/sparkfun-poweric-v_reg_mic5216-.fzp core/sparkfun-poweric-v_reg_mic5219-smd.fzp core/sparkfun-poweric-v_reg_mic5235-.fzp core/sparkfun-poweric-v_reg_ncp1400-sot23-5.fzp core/sparkfun-poweric-v_reg_ncp50x-.fzp core/sparkfun-poweric-v_reg_tps61040-smd.fzp core/sparkfun-poweric-v_reg_tps76433-sot23-5.fzp core/sparkfun-poweric-vnh2sp30-.fzp core/sparkfun-poweric-zxld1360-.fzp core/sparkfun-rf-alm-1412-smd.fzp core/sparkfun-rf-antenna-smd1.fzp core/sparkfun-rf-antenna2-smd.fzp core/sparkfun-rf-antenna2-smd2.fzp core/sparkfun-rf-antenna2-smd3.fzp core/sparkfun-rf-antenna2-smd5.fzp core/sparkfun-rf-antenna2-smd6.fzp core/sparkfun-rf-atmega128rfa1-.fzp core/sparkfun-rf-balun-0805.fzp core/sparkfun-rf-bgb203_bluetooth-old.fzp core/sparkfun-rf-bgb203_bluetooth-smd.fzp core/sparkfun-rf-blueradio_br-c40a-bas.fzp core/sparkfun-rf-blueradio_br-c40n-bas.fzp core/sparkfun-rf-blueradio_br-c40n-int2.fzp core/sparkfun-rf-blueradio_br-c40n-internal.fzp core/sparkfun-rf-blueradio_br-c40n-sfe.fzp core/sparkfun-rf-bluetooth-rn41-_.fzp core/sparkfun-rf-btm182-_.fzp core/sparkfun-rf-copernicus-dip-pth.fzp core/sparkfun-rf-copernicus-smd.fzp core/sparkfun-rf-d2523t-_.fzp core/sparkfun-rf-ebm001-.fzp core/sparkfun-rf-em406_outline-.fzp core/sparkfun-rf-em408_outline-.fzp core/sparkfun-rf-et312-smd.fzp core/sparkfun-rf-ge863_gps-.fzp core/sparkfun-rf-ge864-.fzp core/sparkfun-rf-ge865-.fzp core/sparkfun-rf-ge865_2-.fzp core/sparkfun-rf-gm862-gm862_connector.fzp core/sparkfun-rf-gm862-gnd.fzp core/sparkfun-rf-gp-2106-.fzp core/sparkfun-rf-gr-10-smd.fzp core/sparkfun-rf-gs1011-gs1011mxx.fzp core/sparkfun-rf-gs406smd-mating_smd____special.fzp core/sparkfun-rf-gs406smd-socket.fzp core/sparkfun-rf-id-12_20-.fzp core/sparkfun-rf-id-12_20-id-12_lock.fzp core/sparkfun-rf-id-12_20-smd.fzp core/sparkfun-rf-lassen_iq_gps-lassen.fzp core/sparkfun-rf-ls20126-.fzp core/sparkfun-rf-mirf-.fzp core/sparkfun-rf-mlx90121-_.fzp core/sparkfun-rf-mn5010hs-.fzp core/sparkfun-rf-mn5010hs-smd.fzp core/sparkfun-rf-nrf2401a-smd.fzp core/sparkfun-rf-nrf24ap1-smd.fzp core/sparkfun-rf-nrf24l01-smd.fzp core/sparkfun-rf-nrf24le1-.fzp core/sparkfun-rf-nrf24lu1-.fzp core/sparkfun-rf-nrf24z1-.fzp core/sparkfun-rf-ns73m-smd.fzp core/sparkfun-rf-rf-link_rx-.fzp core/sparkfun-rf-rf-link_tx-.fzp core/sparkfun-rf-rf24g-.fzp core/sparkfun-rf-rfm22-smd.fzp core/sparkfun-rf-rmcm01-smd.fzp core/sparkfun-rf-rn-131g-.fzp core/sparkfun-rf-rn171-rn171.fzp core/sparkfun-rf-rs9110-.fzp core/sparkfun-rf-si4700-smd.fzp core/sparkfun-rf-si470x-.fzp core/sparkfun-rf-sm130-.fzp core/sparkfun-rf-sm5100b-.fzp core/sparkfun-rf-sma661as-.fzp core/sparkfun-rf-sup500f-.fzp core/sparkfun-rf-tfm-511p-.fzp core/sparkfun-rf-trf-24g-.fzp core/sparkfun-rf-venus634-smd.fzp core/sparkfun-rf-venus638flpx-l-.fzp core/sparkfun-rf-wifly_gsx-.fzp core/sparkfun-rf-wlanmodule-.fzp core/sparkfun-rf-wt32-.fzp core/sparkfun-rf-xbee-1-b1.fzp core/sparkfun-rf-xbee-1-b2.fzp core/sparkfun-rf-xbee-1-b3.fzp core/sparkfun-rf-xbee-1-xbee-1_lock.fzp core/sparkfun-rf-xtend-digi-modem-.fzp core/sparkfun-rf-zg2100m-.fzp core/sparkfun-sensors-admp401-.fzp core/sparkfun-sensors-admp421-.fzp core/sparkfun-sensors-adns2610-pth.fzp core/sparkfun-sensors-adxl180-.fzp core/sparkfun-sensors-adxl193-.fzp core/sparkfun-sensors-adxl330-smd.fzp core/sparkfun-sensors-adxl335-.fzp core/sparkfun-sensors-adxl345-.fzp core/sparkfun-sensors-adxrsxxx-smd.fzp core/sparkfun-sensors-at42qt1012-.fzp core/sparkfun-sensors-bma180-.fzp core/sparkfun-sensors-bmp085-.fzp core/sparkfun-sensors-camera_cmos_con-plug.fzp core/sparkfun-sensors-camera_cmos_con-smd.fzp core/sparkfun-sensors-cma3000-a01-.fzp core/sparkfun-sensors-cma3000-d01-.fzp core/sparkfun-sensors-dcm01-.fzp core/sparkfun-sensors-fc30-smd.fzp core/sparkfun-sensors-gas_sensor-.fzp core/sparkfun-sensors-geiger_tube-lnd712.fzp core/sparkfun-sensors-hall-effect-smd.fzp core/sparkfun-sensors-hdjd-s822-qr999-.fzp core/sparkfun-sensors-hdjd-s822-qr999-withpic.fzp core/sparkfun-sensors-hih-4030-smd.fzp core/sparkfun-sensors-hmc1041z-.fzp core/sparkfun-sensors-hmc1051z-.fzp core/sparkfun-sensors-hmc1051z-2.fzp core/sparkfun-sensors-hmc1052l-.fzp core/sparkfun-sensors-hmc5843-smd.fzp core/sparkfun-sensors-hmc5883l-smd.fzp core/sparkfun-sensors-hmc6042-.fzp core/sparkfun-sensors-hmc6343-a.fzp core/sparkfun-sensors-hmc6352-.fzp core/sparkfun-sensors-idg1215--1215.fzp core/sparkfun-sensors-idg300-smd.fzp core/sparkfun-sensors-idg500-.fzp core/sparkfun-sensors-imu3000-.fzp core/sparkfun-sensors-irreceiver-smd.fzp core/sparkfun-sensors-isl29102-.fzp core/sparkfun-sensors-isz500-smd.fzp core/sparkfun-sensors-itg-3200-.fzp core/sparkfun-sensors-ixz500-smd.fzp core/sparkfun-sensors-l3g4200d-.fzp core/sparkfun-sensors-lis302dl-.fzp core/sparkfun-sensors-lis331-.fzp core/sparkfun-sensors-lis3lv02dq-smd.fzp core/sparkfun-sensors-lisy300al-smd.fzp core/sparkfun-sensors-lm34-.fzp core/sparkfun-sensors-load_cell-1x03-pth.fzp core/sparkfun-sensors-lsm303dlh-smd.fzp core/sparkfun-sensors-ltr-301-.fzp core/sparkfun-sensors-ly530al-smd.fzp core/sparkfun-sensors-lypr540ah-.fzp core/sparkfun-sensors-mag3110-.fzp core/sparkfun-sensors-mcp9700-smd.fzp core/sparkfun-sensors-mic-9.7mm.fzp core/sparkfun-sensors-mic-electret_smd.fzp core/sparkfun-sensors-mlx90609-smd.fzp core/sparkfun-sensors-mlx90614-_.fzp core/sparkfun-sensors-mma7260-.fzp core/sparkfun-sensors-mma7361-.fzp core/sparkfun-sensors-mma8452q-.fzp core/sparkfun-sensors-mpl115a-.fzp core/sparkfun-sensors-mpl3115a2-lga8.fzp core/sparkfun-sensors-mpr121-qfn20.fzp core/sparkfun-sensors-os4000-t-.fzp core/sparkfun-sensors-photocell-pth-kit.fzp core/sparkfun-sensors-photocell-pth.fzp core/sparkfun-sensors-qrb1114-.fzp core/sparkfun-sensors-qrd1114-.fzp core/sparkfun-sensors-qre1113-.fzp core/sparkfun-sensors-sca1000-.fzp core/sparkfun-sensors-sca3000-.fzp core/sparkfun-sensors-scp1000_d01-smd.fzp core/sparkfun-sensors-scp1000_d01-smd2.fzp core/sparkfun-sensors-sht1x-smd.fzp core/sparkfun-sensors-si1120-.fzp core/sparkfun-sensors-solar-ixys--.fzp core/sparkfun-sensors-solar-ixys-_.fzp core/sparkfun-sensors-spm0204ud5-smd.fzp core/sparkfun-sensors-st-gyro-pr-lga.fzp core/sparkfun-sensors-st-gyro-pr-lga28.fzp core/sparkfun-sensors-st-gyro-py-smd.fzp core/sparkfun-sensors-tcm8240md-.fzp core/sparkfun-sensors-temperature-sensor-.fzp core/sparkfun-sensors-temt6000-.fzp core/sparkfun-sensors-tmp102-.fzp core/sparkfun-sensors-tmp36-gt9.fzp core/sparkfun-sensors-tmp36-to-92-kit.fzp core/sparkfun-sensors-touch-.fzp core/sparkfun-sensors-touch-2.fzp core/sparkfun-sensors-transchiptc5747-.fzp core/sparkfun-sensors-vcnl4000-.fzp obsolete/sparkfun-connectors-rj11-6-pth.fzp obsolete/sparkfun-connectors-rj45-8-pth.fzp obsolete/sparkfun-discretesemi-diode-1n4148.fzp obsolete/sparkfun-discretesemi-diode-hv.fzp obsolete/sparkfun-discretesemi-diode-pth.fzp obsolete/sparkfun-electromechanical-battery-2-aa.fzp obsolete/sparkfun-electromechanical-battery-2-aaa.fzp obsolete/sparkfun-electromechanical-battery-aa-kit.fzp obsolete/sparkfun-electromechanical-battery-aaa.fzp obsolete/sparkfun-led-led-10mm.fzp obsolete/sparkfun-passives-resistor-0402-res.fzp obsolete/sparkfun-passives-resistor-2010.fzp obsolete/sparkfun-passives-resistor-2512.fzp obsolete/sparkfun-sensors-qrb1114-.fzp
+Copyright: 2013 www.fritzing.org
+License: CC-BY-SA-3.0
+
+
+Files: core/sparkfun_storage_microsd.fzp
+Copyright: 2014 Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/chipkit_BasicIOShield.fzp core/chipkit_MX4.fzp core/chipkit_WF32.fzp
+Copyright: 2014 Amber Mear/Digilent Inc.
+License: CC-BY-SA-3.0
+
+
+Files: core/SPARKCORE_v1_fix.fzp obsolete/SPARKCORE_v1.fzp
+Copyright: 2014 BDub @ Technobly.com
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/SPARKCORE_v10_812c474c8bfaf7c15553a915ced9e227_3.fzp
+Copyright: 2014 Brett Walach
+License: CC-BY-SA-3.0
+
+
+Files: core/23LCV1024_1.fzp core/74HC139N_1.fzp core/CD4048B_1.fzp
+Copyright: 2014 Christoph Rieder
+License: CC-BY-SA-3.0
+
+
+Files: core/HC-05-male_fix.fzp obsolete/HC-05-male_50ef644d14e5d1dfea3ec45159c12c96_4.fzp
+Copyright: 2014 Computação na Escola
+License: CC-BY-SA-3.0
+
+
+Files: core/chipkit_MotorShield.fzp
+Copyright: 2014 Digilent/Amber Mear
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/NRF24L01_22e0249967228a8065b800b57589b75e_25.fzp
+Copyright: 2014 Doume
+License: CC-BY-SA-3.0
+
+
+Files: core/WeIO.fzp
+Copyright: 2014 Drasko DRASKOVIC
+License: CC-BY-SA-3.0
+
+
+Files: core/Raspberry_Pi_B+.fzp core/SMD_HTSSOP28-pad.fzp core/arduino-intel-galileo-half-pcb-shape.fzp core/arduino-intel-galileo-pcb-shape.fzp core/intel-arduino_galileo-simple.fzp core/intel-arduino_galileo.fzp core/intel-arduino_galileo_gen2-simple.fzp core/intel-arduino_galileo_gen2.fzp core/raspberrypi-b+-pcb-shape.fzp core/raspberrypi-pcb-shape.fzp core/sparkcore-pcb-shape.fzp
+Copyright: 2014 Fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/teensy_3.1.fzp
+Copyright: 2014 Fabian Althaus modified by Ouinouin
+License: CC-BY-SA-3.0
+
+
+Files: core/Frode_1.fzp
+Copyright: 2014 Frode Lillerud
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/0223_0eb44bbb4c4f50c21567b8c79110a3c3_5.fzp
+Copyright: 2014 Király László
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/pololu0002_7d1d85d9e29084ad573942b0077ce80e_1.fzp
+Copyright: 2014 Matteo Perini
+License: CC-BY-SA-3.0
+
+
+Files: core/pololu0002_a988.fzp
+Copyright: 2014 Matteo Perini + Fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/prefix0000_66b8ccc42f9cca842a85f140a2fd782b_4.fzp obsolete/prefix0000_c370f033d3f6e718f3cd68009db820d9_5.fzp
+Copyright: 2014 Richard Bruneau
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/Fairchild_MBR745_d1066380ec3f6cee8a8b33c53ad535c2_9.fzp
+Copyright: 2014 S. van Doorn
+License: CC-BY-SA-3.0
+
+
+Files: core/Fairchild_MBR745.fzp
+Copyright: 2014 S. van Doorn, F.Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/LED?Tactile?Button?Breakout?v10.fzp core/Motor?Driver?1A?Dual?TB6612FNG?v11.fzp core/PowerCell?Lipo?Charger?Booster?v13.fzp core/TRRS?3.5mm?Jack?Breakout?v10.fzp
+Copyright: 2014 SFE and Fritzing
+License: CC-BY-SA-3.0
+
+
+Files: core/A4950_37.fzp core/FT230XQ_2.fzp core/SN74LVC2G14DBVR_2.fzp
+Copyright: 2014 Steven Vogel
+License: CC-BY-SA-3.0
+
+
+Files: core/seeed_arch_pro_v1.fzp core/seeed_arch_v1.1.fzp core/seeed_grove_3axis_digital_accelerometer_16g.fzp core/seeed_grove_4digit_display.fzp core/seeed_grove_button.fzp core/seeed_grove_buzz.fzp core/seeed_grove_infrared_emitter.fzp core/seeed_grove_infrared_receiver.fzp core/seeed_grove_light_sensor.fzp core/seeed_grove_oled_128x96.fzp core/seeed_grove_temperature_sensor.fzp core/seeed_seeeduino_v3.fzp
+Copyright: 2014 Yihui Xiong
+License: CC-BY-SA-3.0
+
+
+Files: core/pinoccio-proto.fzp core/pinoccio.fzp
+Copyright: 2014 f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/SMD_TSSOP20.fzp core/smd-YC164.fzp obsolete/SMD_mega2560.fzp
+Copyright: 2014 fabian
+License: CC-BY-SA-3.0
+
+
+Files: core/Arduino-BLE-LowPower-RevB-final_5.fzp core/Bean_revE.fzp core/MPR121-Breakout-v13.fzp core/arduino_Yun(rev1)_v1.fzp core/intel_edison_arduinobreakout.fzp core/udoo_dual.fzp obsolete/RFM12b_HopeRF_Transceiver.fzp obsolete/arduino_Yun(rev1).fzp
+Copyright: 2014 fabian althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/linino_dogUSB(01).fzp core/linino_dogrj45(01).fzp core/linino_one(rev1).fzp
+Copyright: 2014 fabian_atlthaus
+License: CC-BY-SA-3.0
+
+
+Files: core/blueIOT_Rc1-final.fzp
+Copyright: 2014 joev
+License: CC-BY-SA-3.0
+
+
+Files: core/bareconductive_touchboard.fzp
+Copyright: 2014 pedro cushe and fabian althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Lhi958.fzp core/avr_spi_prog-pth.fzp core/crystal-smd-3.2x2.5mm.fzp core/intel_edison-hirosedf40.fzp core/intel_edison_minibreakout-bottom_fix.fzp core/intel_edison_minibreakout_fix.fzp core/sparkfun-discretesemi-diode-1n4148_v2.fzp core/sparkfun-discretesemi-diode-hv_v2.fzp core/sparkfun-discretesemi-diode-pth_v2.fzp obsolete/intel_edison_minibreakout-bottom.fzp obsolete/intel_edison_minibreakout.fzp
+Copyright: 2014 www.fritzing.org
+License: CC-BY-SA-3.0
+
+
+Files: core/SIM800L_5.fzp
+Copyright: 2015 Alberto Martínez
+License: CC-BY-SA-3.0
+
+
+Files: core/MPX4250AP?pressure?sensor.fzp
+Copyright: 2015 Andre van Ooijen - Old Grey mod
+License: CC-BY-SA-3.0
+
+
+Files: core/RFduinoSMD_fix.fzp obsolete/RFduinoSMD_7a0c446b88e9a347beee6c109339d6d5_1.fzp
+Copyright: 2015 Arnaud Boudou, Felix Kosmalla, Fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/8825_a9994b2c46c1c84975a2a1aad1684bc9_2.fzp
+Copyright: 2015 Bantum Works
+License: CC-BY-SA-3.0
+
+
+Files: core/DRV8825_breakout.fzp
+Copyright: 2015 Bantum Works fix: f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/PHOTON_ca9087bc7b8f5056051e64319edd973f_1.fzp
+Copyright: 2015 Brett Walach
+License: CC-BY-SA-3.0
+
+
+Files: core/PHOTON_fix.fzp
+Copyright: 2015 Brett Walach,Fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/dquidio_GPRS.fzp
+Copyright: 2015 DQuid @DQuidTeam
+License: CC-BY-SA-3.0
+
+
+Files: core/PowerBoost?500C?-?Adafruit.fzp
+Copyright: 2015 Dean Cording fixed by FA
+License: CC-BY-SA-3.0
+
+
+Files: core/NRF24L01_fix.fzp obsolete/NRF24L01modif_0e60743881e2091e0761dc302a66f72e_4.fzp
+Copyright: 2015 Doume
+License: CC-BY-SA-3.0
+
+
+Files: core/AMPHENOL-ACJS-MHDR.fzp core/Raspberry_Pi_2_v1.1.fzp core/Rotary_Encoder_fix.fzp core/SIM928A-sim928A.fzp core/monacor_ltr_110_linetransformer.fzp core/powerbutton_adafruit.fzp core/raspio_duino.fzp core/sim908-sim908.fzp
+Copyright: 2015 Fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/EspruinoPico_8fb644a5b6642112445ed6d90bc494d8_6.fzp
+Copyright: 2015 Gordon Williams
+License: CC-BY-SA-3.0
+
+
+Files: core/EspruinoPico_8fb644a5b6642112445ed6d90bc494d8_6.fzp
+Copyright: 2015 Gordon Williams + F.Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Micro-Python-pyboard-PYBv10b_fix.fzp obsolete/Micro-Python-pyboard-PYBv10b.fzp
+Copyright: 2015 Mike Causer
+License: CC-BY-SA-3.0
+
+
+Files: core/SM130_fix_c427b6f6464a187fb8ed11ae2f2868fc_2.fzp
+Copyright: 2015 RapidNFC + F.Althaus
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/prefix0000_RICHARDB_279ea5112d8641747da44ac250011e59_6.fzp obsolete/prefix0000_rbrun_41e2db2b27ebc0f7c890cf07e8f6b2f0_3.fzp
+Copyright: 2015 Richard Bruneau
+License: CC-BY-SA-3.0
+
+
+Files: core/hx711_weightsensor.fzp
+Copyright: 2015 Richard Bruneau fixed: f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/microsdmodule.fzp
+Copyright: 2015 Richard Bruneau, F.Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/NRF24L01+_breakout.fzp
+Copyright: 2015 Richard Bruneau, Fabian Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/rtc_ds3231_breakout.fzp
+Copyright: 2015 Richard Bruneau, f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/hc-sr04_ultrafix.fzp
+Copyright: 2015 Ricky Ng-Adam fixed by FA
+License: CC-BY-SA-3.0
+
+
+Files: core/MPL3115A2_breakout.fzp
+Copyright: 2015 SparkFun and Fritzing Part-o-matic
+License: CC-BY-SA-3.0
+
+
+Files: core/Sparkfun_Tilt-a-Whirl.fzp
+Copyright: 2015 SparkFun and Fritzing toolkit
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/LBT2088AH.fzp
+Copyright: 2015 Stefan Hermann
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/ESP8266_module_7127946da8b954839406bc6bc9d8d0d6_59.fzp
+Copyright: 2015 YDonnelly
+License: CC-BY-SA-3.0
+
+
+Files: core/ESP8266_7.fzp obsolete/ESP8266_7_723ce4de09d714597656302fbbc6971c_17.fzp
+Copyright: 2015 YDonnelly; Geert Roumen; greg-ware; Simone Picchioni + fix:f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Arduino-Pro-Mini_3.3v-v14.fzp core/Arduino-Pro-Mini_5v-v14.fzp core/ESP8266-Thing-Dev.fzp core/LTC3105_msop.fzp core/MyoWare_Power_Shield.fzp core/MyoWare_Proto_Shield.fzp core/SHT1x-Breakout.fzp core/SparkFun_BME280_Breakout.fzp core/SparkFun_BadgerArray.fzp core/SparkFun_BadgerStick.fzp core/SparkFun_CAN-Bus_Shield.fzp core/SparkFun_LSM303C_6_DOF_IMU_Breakout.fzp core/SparkFun_MIDI_Shield.fzp core/SparkFun_Soil_Moisture_Sensor.fzp core/SparkFun_Stepoko.fzp core/femtobuck.fzp core/ludusProtoShield.fzp core/ludusProtoShieldWireless.fzp core/mega_pro-v13.fzp core/sx1509-breakout.fzp
+Copyright: 2015 f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Analog_Digital_MUX_Breakout.fzp core/MyoWare_Cable_Shield.fzp core/RFM12b_HopeRF_Transceiver_fix.fzp core/STM32_Nucleo_board.fzp core/dquidio.fzp core/sodaq_mbili_rev4?(4).fzp core/ws2812b.fzp
+Copyright: 2015 fabian althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/SparkFun?Load?Sensor?Combinator.fzp
+Copyright: 2015 joev.noise
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/Cherry-MX-Keyswitch_44a6316938b1b0a2c83ac0276dac5539_22.fzp
+Copyright: 2015 ml_
+License: CC-BY-SA-3.0
+
+
+Files: core/Cherry-MX-Keyswitch.fzp
+Copyright: 2015 ml_, fixedby:fa
+License: CC-BY-SA-3.0
+
+
+Files: core/4060.fzp
+Copyright: 2015 neutmute
+License: CC-BY-SA-3.0
+
+
+Files: core/huzzah_esp8266.fzp obsolete/Adafruit_HUZZAH_ESP8266_Breakout_c78691c8aa42e23bb46af61759de99b8_1.fzp
+Copyright: 2015 pkurtans
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/usb_3.0_female.fzp
+Copyright: 2015 www.fritzing.org
+License: CC-BY-SA-3.0
+
+
+Files: core/usb_3.0_female_fix.fzp
+Copyright: 2015 www.fritzing.org, f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Raspberry?Pi?3.fzp obsolete/Raspberry?Pi?3.fzp obsolete/Raspberry?Pi?Zero.fzp
+Copyright: 2016 Anudit Nagar
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/ELECTRON_90f1556e6dcbdc62b58429de7696758a_7.fzp
+Copyright: 2016 Brett Walach & Julien Vanier
+License: CC-BY-SA-3.0
+
+
+Files: core/electron_board.fzp
+Copyright: 2016 Brett Walach & Julien Vanier; fix: f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/HLK-PM01.fzp
+Copyright: 2016 Iyad Nahas
+License: CC-BY-SA-3.0
+
+
+Files: core/ChirpSoilMoistureSensor_v2-7-3_5e0f232f847b53721953b7dbd6838518_9.fzp obsolete/RioRand_LM2596_4d4c679376dd350f31d88f2a45c5c688_11.fzp
+Copyright: 2016 Jenny Madorsky
+License: CC-BY-SA-3.0
+
+
+Files: core/ATMEGA32U4?TQFP.fzp
+Copyright: 2016 Johannes Wronka
+License: CC-BY-SA-3.0
+
+
+Files: core/DFRobot-DFPlayer-Mini.fzp core/Gizwits_WiFi_Witty_ESP_12F.fzp core/WeMos-D1-mini-1-Button-Shield-no-headers.fzp core/WeMos-D1-mini-Battery-Shield-no-headers.fzp core/WeMos-D1-mini-Dual-Base-Shield-no-headers.fzp core/WeMos-D1-mini-Micro-SD-Shield-no-headers.fzp core/WeMos-D1-mini-Motor-Shield-no-headers.fzp core/WeMos-D1-mini-OLED-Shield-no-headers.fzp core/WeMos-D1-mini-Protoboard-Shield-no-headers.fzp core/WeMos-D1-mini-Relay-Shield-V2-no-headers.fzp core/WeMos-D1-mini-Relay-Shield-no-headers.fzp core/WeMos-D1-mini-WS2812B-RGB-Shield-no-headers.fzp obsolete/WeMos-D1-mini-female-headers-above.fzp obsolete/WeMos-D1-mini-male-headers-above.fzp
+Copyright: 2016 Mike Causer
+License: CC-BY-SA-3.0
+
+
+Files: core/WeMos-D1-mini-female-headers-above_fixed.fzp core/WeMos-D1-mini-male-headers-above_fixed.fzp
+Copyright: 2016 Mike Causer, fixed:f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/174917_DENSO-ECU-socket_48pin-040-070.fzp
+Copyright: 2016 Old Grey
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/Eric_d0eaed56260dd65e5641982bd03333c7_5.fzp
+Copyright: 2016 Pawel Szymczykowski
+License: CC-BY-SA-3.0
+
+
+Files: core/blend_micro1.0.fzp
+Copyright: 2016 Pawel Szymczykowski fixed by f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Sharp-PC817.fzp
+Copyright: 2016 Rafa G (https://minibots.wordpress.com)
+License: CC-BY-SA-3.0
+
+
+Files: core/96boards_CE.fzp
+Copyright: 2016 Ricardo Salveti fixed by f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/prefix0000_20f55f90aa18635d44e794080c8bfbf6_9.fzp
+Copyright: 2016 Richard Bruneau
+License: CC-BY-SA-3.0
+
+
+Files: core/bmp180_breakout.fzp
+Copyright: 2016 Richard Bruneau fixed by f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/tilt-switch-sw200d.fzp
+Copyright: 2016 Sayanee Basu, Leon Lim, f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/JST-B3P-VH.fzp core/JST-VHR-3N.fzp
+Copyright: 2016 Stephen G. Parry
+License: CC-BY-SA-3.0
+
+
+Files: core/4001_4_x_2_input_NOR_gate_multipart.fzp core/4001_4_x_2_input_NOR_gate_single.fzp core/4011_4_x_2_input_NAND_gate_multipart.fzp core/4011_4_x_2_input_NAND_gate_single.fzp core/4070_4_x_2_input_XOR_gate_multipart.fzp core/4070_4_x_2_input_XOR_gate_single.fzp core/4071_4_x_2_input_OR_gate_multipart.fzp core/4071_4_x_2_input_OR_gate_single.fzp core/4077_4_x_2_input_XNOR_gate_multipart.fzp core/4077_4_x_2_input_XNOR_gate_single.fzp core/4081_4_x_2_input_AND_gate_multipart.fzp core/4081_4_x_2_input_AND_gate_single.fzp
+Copyright: 2016 Stephen G. Parry (modified by vanepp jan 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/Molex-Picoblade-53261-0219_smd-2p-h_48.fzp core/Molex-Picoblade-53261-0319_smd-3p-h_40.fzp core/Molex-Picoblade-53261-0419_smd-4p-h_32.fzp core/Molex-Picoblade-53261-0519_smd-5p-h_24.fzp core/Molex-Picoblade-53261-0619_smd-6p-h_16.fzp core/Molex-Picoblade-53261-0719_smd-7p-h_8.fzp core/Molex-Picoblade-53261-0819_smd-8p-h_4.fzp core/Molex-Picoblade-53398-0271_smd-2p-v_18.fzp core/Molex-Picoblade-53398-0371_smd-3p-v_10.fzp core/Molex-Picoblade-53398-0471_smd-4p-v_16.fzp core/Molex-Picoblade-53398-0571_smd-5p-v_8.fzp core/Molex-Picoblade-53398-0671_smd-6p-v_8.fzp core/Molex-Picoblade-53398-0771_smd-7p-v_8.fzp core/Molex-Picoblade-53398-0871_smd-8p-v_1.fzp core/hirose-df13-2p-125h_42.fzp core/hirose-df13-2p-125v_50.fzp core/hirose-df13-3p-125h_34.fzp core/hirose-df13-3p-125v_42.fzp core/hirose-df13-4p-125h_8.fzp core/hirose-df13-4p-125v_8.fzp core/hirose-df13-5p-125h_26.fzp core/hirose-df13-5p-125v_25.fzp core/hirose-df13-6p-125h_18.fzp core/hirose-df13-6p-125v_17.fzp core/hirose-df13-7p-125h_10.fzp core/hirose-df13-7p-125v_9.fzp core/hirose-df13-8p-125h_4.fzp core/hirose-df13-8p-125v_5.fzp obsolete/Molex-Picoblade-53261-0219_smd-2p-h_48.fzp obsolete/Molex-Picoblade-53261-0319_smd-3p-h_40.fzp obsolete/Molex-Picoblade-53261-0419_smd-4p-h_32.fzp obsolete/Molex-Picoblade-53261-0519_smd-5p-h_24.fzp obsolete/Molex-Picoblade-53261-0619_smd-6p-h_16.fzp obsolete/Molex-Picoblade-53261-0719_smd-7p-h_8.fzp obsolete/Molex-Picoblade-53261-0819_smd-8p-h_4.fzp obsolete/Molex-Picoblade-53398-0271_smd-2p-v_18.fzp obsolete/Molex-Picoblade-53398-0371_smd-3p-v_10.fzp obsolete/Molex-Picoblade-53398-0471_smd-4p-v_16.fzp obsolete/Molex-Picoblade-53398-0571_smd-5p-v_8.fzp obsolete/Molex-Picoblade-53398-0671_smd-6p-v_8.fzp obsolete/Molex-Picoblade-53398-0771_smd-7p-v_8.fzp obsolete/Molex-Picoblade-53398-0871_smd-8p-v_1.fzp obsolete/hirose-df13-2p-125h_42.fzp obsolete/hirose-df13-2p-125v_50.fzp obsolete/hirose-df13-3p-125h_34.fzp obsolete/hirose-df13-3p-125v_42.fzp obsolete/hirose-df13-4p-125h_8.fzp obsolete/hirose-df13-4p-125v_8.fzp obsolete/hirose-df13-5p-125h_26.fzp obsolete/hirose-df13-5p-125v_25.fzp obsolete/hirose-df13-6p-125h_18.fzp obsolete/hirose-df13-6p-125v_17.fzp obsolete/hirose-df13-7p-125h_10.fzp obsolete/hirose-df13-7p-125v_9.fzp obsolete/hirose-df13-8p-125h_4.fzp obsolete/hirose-df13-8p-125v_5.fzp
+Copyright: 2016 Stephen Lilley
+License: CC-BY-SA-3.0
+
+
+Files: core/APEM-PT65-303_Rotary_coded_hexadecimal_switch.fzp core/Camdenboss_CTB0158-10_5_08mm_pitch_90deg_terminals.fzp core/Camdenboss_CTB0158-11_5_08mm_pitch_90deg_terminals.fzp core/Camdenboss_CTB0158-12_5_08mm_pitch_90deg_terminals.fzp core/Camdenboss_CTB0158-2_5_08mm_pitch_90deg_terminals.fzp core/Camdenboss_CTB0158-3_5_08mm_pitch_90deg_terminals.fzp core/Camdenboss_CTB0158-4_5_08mm_pitch_90deg_terminals.fzp core/Camdenboss_CTB0158-5_5_08mm_pitch_90deg_terminals.fzp core/Camdenboss_CTB0158-6_5_08mm_pitch_90deg_terminals.fzp core/Camdenboss_CTB0158-7_5_08mm_pitch_90deg_terminals.fzp core/Camdenboss_CTB0158-8_5_08mm_pitch_90deg_terminals.fzp core/Camdenboss_CTB0158-9_5_08mm_pitch_90deg_terminals.fzp core/Dagu?DGServo?9g?(End?view).fzp core/Dagu?DGServo?9g?(Pan?and?tilt).fzp core/Dagu?DGServo?9g?(Top?view).fzp core/Dagu?DGServo?9g?PCB?mounting?holes.fzp core/Dagu?DGServo?9g?header?(male).fzp core/Dagu?DGServo?9g?header?connector?(female).fzp core/Taiway-100-SP-X-T1-X-X-B1-M1_SPDT_miniature_toggle_switch.fzp core/Taiway-100-SP-X-T1-X-X-B1-M1_SPDT_miniature_toggle_switch_actuator.fzp core/Taiway-100-SP-X-T1-X-X-B1-M1_SPDT_miniature_toggle_switch_body.fzp core/Taiway-100-SP-X-T1-X-X-B1-M2_SPDT_miniature_toggle_switch.fzp
+Copyright: 2016 Stephen Parry
+License: CC-BY-SA-3.0
+
+
+Files: core/Sharp-PC847X.fzp
+Copyright: 2016 ThomDietrich
+License: CC-BY-SA-3.0
+
+
+Files: core/micro-usb_b_horizontal.fzp core/polarizedheader4pin_0.156in.fzp
+Copyright: 2016 f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Rotary_Switch_12x1.fzp
+Copyright: 2016 gijs - Old Grey mod
+License: CC-BY-SA-3.0
+
+
+Files: core/CAY17.fzp
+Copyright: 2016 jeremyd2019
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/RFM23BP_83dca743edce69d8624555bae587be66_7.fzp
+Copyright: 2016 le hoop
+License: CC-BY-SA-3.0
+
+
+Files: core/RFM23BP.fzp
+Copyright: 2016 le hoop + fixedby: f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/TE_RELAY.fzp
+Copyright: 2016 www.squarewolf.nl, f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/TE_RELAY_6b97f554b4dba02fd6f20b912a42ebf0_9.fzp
+Copyright: 2016 www.squarewolf.nl, fixed by f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/DS2Y-5-DC5V.fzp core/SCW05B-05.fzp
+Copyright: 2017 Christoph Wempe
+License: CC-BY-SA-3.0
+
+
+Files: core/optocoupler.fzp
+Copyright: 2017 Dirk van Oosterbosch, f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/LDH-45-350B.fzp core/RS_Pro_32_1-row_ab_male.fzp core/RS_Pro_32_1-row_straight_female.fzp
+Copyright: 2017 F.Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/ds2809_ic.fzp
+Copyright: 2017 Fritzing Part-o-matic
+License: CC-BY-SA-3.0
+
+
+Files: core/capacitor_pp_10mm.fzp core/capacitor_pp_15mm.fzp core/capacitor_pp_22.5mm.fzp core/capacitor_pp_27.5mm.fzp core/capacitor_pp_37.5mm.fzp core/capacitor_pp_5mm.fzp core/capacitor_pp_7.5mm.fzp
+Copyright: 2017 Fritzing Team
+License: CC-BY-SA-3.0
+
+
+Files: core/PocketBeagle.fzp
+Copyright: 2017 Jason Kridner + F.Althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/HLK-PM12.fzp
+Copyright: 2017 Leroy Förster
+License: CC-BY-SA-3.0
+
+
+Files: core/roborio_1.fzp
+Copyright: 2017 Peter Van Epp (vanepp in Fritzing forums)
+License: CC-BY-SA-3.0
+
+
+Files: core/JST-03JQ-BT.fzp
+Copyright: 2017 Stephen G. Parry
+License: CC-BY-SA-3.0
+
+
+Files: core/IchigoJamT.fzp
+Copyright: 2017 Takeshi Sasaki
+License: CC-BY-SA-3.0
+
+
+Files: core/ESP8266_module.fzp
+Copyright: 2017 YDonnelly fixed f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/MicroCrossDVI_connector_molex.fzp core/lumberg_rca_jeita_rc-5231.fzp core/maluska_dil_miniaturrelais_ry.fzp core/optical_jack_orj-8.fzp core/optical_jack_otj-8.fzp core/scart_houseing_angle.fzp core/sparkfun-connectors-rj11-6-pth_fix.fzp core/telegaertner_bnc_socket_50r.fzp
+Copyright: 2017 f.althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Subminiature_Rotary_Switch_RM-series.fzp
+Copyright: 2017 fabian althaus
+License: CC-BY-SA-3.0
+
+
+Files: core/Sparkfun_IMU_Breakout_MPU-9250.fzp
+Copyright: 2017 fredrmag
+License: CC-BY-SA-3.0
+
+
+Files: obsolete/zero_RPi_1.fzp
+Copyright: 2018 Anudit Nagar
+License: CC-BY-SA-3.0
+
+
+Files: core/Raspberry_Pi_Zero_1.fzp
+Copyright: 2018 Anudit Nagar (modifed by Peter Van Epp Jan 2018
+License: CC-BY-SA-3.0
+
+
+Files: core/888H-1CC-F-C?E_2c587b2bac849b62c1c8ed5abf5ea53c_11.fzp core/888H-1CC-F-C_E.fzp core/capacitor_elko_goldcap_4.0F_92eef0d1d2f548b9db9918a1769107d3_2.fzp
+Copyright: 2018 Christoph Wempe
+License: CC-BY-SA-3.0
+
+
+Files: core/xbee_usb_mini_adapter.fzp
+Copyright: 2018 Fritzing Part-o-matic
+License: CC-BY-SA-3.0
+
+
+Files: core/voltage_regulator_7805.fzp core/voltage_regulator_7833.fzp core/voltage_regulator_lm317.fzp
+Copyright: 2018 Jenny
+License: CC-BY-SA-3.0
+
+
+Files: core/RioRand_LM2596_94ce9810d0922bc731e2f315085d46ab_1.fzp
+Copyright: 2018 Jenny Madorsky  (modified by Peter Van Epp)
+License: CC-BY-SA-3.0
+
+
+Files: core/I2C?level?shifter?bidirectional.fzp
+Copyright: 2018 Jungho Park
+License: CC-BY-SA-3.0
+
+
+Files: core/STM32F103C8T6?blue?mini?board.fzp
+Copyright: 2018 Jungho Park (modified by vanepp jan 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/IFR520_MOS_module.fzp core/InvenSense_MPU6050.fzp core/Seeedstudio_LinkIt_ONE.fzp core/XL4016_DC_DC_Converter.fzp core/arduino_mega_sensor_shield_v20.fzp core/diac_diode_db3.fzp core/xbee_pro_rf_module.fzp
+Copyright: 2018 KingDarBoja
+License: CC-BY-SA-3.0
+
+
+Files: core/SMD_Vreg_7805.fzp
+Copyright: 2018 Mr.T
+License: CC-BY-SA-3.0
+
+
+Files: core/PDP_1.fzp
+Copyright: 2018 Nitay Megides ( Modified by vanepp July 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/YumoE6B2_1.fzp
+Copyright: 2018 Nitay Megides (Modified by vanepp July 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/VRM_1.fzp
+Copyright: 2018 Nitay Megides (modified by vanepp july 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/AMT103_1.fzp
+Copyright: 2018 Nitay Megides Modified by vanepp July 2019
+License: CC-BY-SA-3.0
+
+
+Files: core/PCM_1.fzp
+Copyright: 2018 Nitay Megides(Modified by vanepp July 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/DFRobot-PH-sensor.fzp core/fc-51-IR-Sensor.fzp core/fc-51-IR-Sensor_On.fzp
+Copyright: 2018 Peter Van Epp (vanepp in forums)
+License: CC-BY-SA-3.0
+
+
+Files: core/hc-sr04_bf8299a_002.fzp obsolete/HC-SR04?Ultrasonic?Distance?Sensor.fzp
+Copyright: 2018 Richard Bruneau
+License: CC-BY-SA-3.0
+
+
+Files: core/mcp3008.fzp
+Copyright: 2018 ravi.csin@gmail.com
+License: CC-BY-SA-3.0
+
+
+Files: core/onoffshim_1.fzp
+Copyright: 2019 Boris Tékaty
+License: CC-BY-SA-3.0
+
+
+Files: core/Calliope_mini_V_1_0.fzp core/Calliope_mini_V_1_3.fzp
+Copyright: 2019 Calliope gGmbH
+License: CC-BY-SA-3.0
+
+
+Files: core/PCF8574_A2.fzp
+Copyright: 2019 D&C
+License: CC-BY-SA-3.0
+
+
+Files: core/shaft-encoder_1.fzp
+Copyright: 2019 Florian (modfied by vanepp sep 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/ky_006_1.fzp core/yl99_1.fzp
+Copyright: 2019 Florian (modified by vanepp sep 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/Arduino-Sensor-Shield-v5_1.fzp
+Copyright: 2019 Florian Schäffer, rafa (modified by vanepp sep 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/HiFive1.fzp
+Copyright: 2019 Michael Zaidman
+License: CC-BY-SA-3.0
+
+
+Files: core/router_1.fzp
+Copyright: 2019 Nitay Megides (modified by vanepp July 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/TalonSRX_1.fzp
+Copyright: 2019 Nitay Megides (modified by vanepp july 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/Sony_Spresense_1.fzp core/Sony_Spresense_ext_board_1.fzp
+Copyright: 2019 Peter Van Epp (vanepp in forums)
+License: CC-BY-SA-3.0
+
+
+Files: core/LM239_IC_DIP_14_300mil.fzp
+Copyright: 2019 Stephen G. Parry (modified by Chad Braham april 2019) (vanepp cleaned up added subparts april 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/Meadow_F7_1.fzp
+Copyright: 2019 Wilderness Labs (modified by vanepp, oct 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/gear-motor_2.fzp
+Copyright: 2019 admin (modified by vanepp sep 2019)
+License: CC-BY-SA-3.0
+
+
+Files: core/multimeter_c_ac_1.fzp core/multimeter_c_dc_1.fzp core/multimeter_r_1.fzp core/multimeter_v_ac_1.fzp core/multimeter_v_dc_1.fzp
+Copyright: 2020 Andres Faina (modified by vanepp Nov 2020)
+License: CC-BY-SA-3.0
+
+
+Files: core/raspberry-pi-4B_1.fzp
+Copyright: 2020 Anudit Nagar (modified for 4B by vanepp Apr 2020) (updated by arnab.blue)
+License: CC-BY-SA-3.0
+
+
+Files: core/DIP_Relay_D31A_14fadb0_002.fzp
+Copyright: 2020 Frank Belau
+License: CC-BY-SA-3.0
+
+
+Files: core/kameleon.fzp
+Copyright: 2020 Kjell Morgenstern
+License: CC-BY-SA-3.0
+
+
+Files: core/Heltec_WiFi_LoRa_32_V2.fzp
+Copyright: 2020 Peter Harrison
+License: CC-BY-SA-3.0
+
+
+Files: core/multimeter_straight-black-probe_1.fzp core/multimeter_straight-red-probe_1.fzp
+Copyright: 2020 Peter Van Epp (vanepp in forums)
+License: CC-BY-SA-3.0
+
+
+Files: core/20mm_8x8_dot_matrix_column_cathode_led_display.fzp core/20mm_8x8_dot_matrix_column_cathode_led_display_narrow_pad.fzp core/20mm_8x8_dot_matrix_row_cathode_led_display.fzp core/20mm_8x8_dot_matrix_row_cathode_led_display_narrow_pad.fzp core/32mm_8x8_dot_matrix_column_cathode_led_display.fzp core/32mm_8x8_dot_matrix_column_cathode_led_display_narrow_pad.fzp core/32mm_8x8_dot_matrix_row_cathode_led_display.fzp core/32mm_8x8_dot_matrix_row_cathode_led_display_narrow_pad.fzp core/38mm_8x8_dot_matrix_column_cathode_led_display.fzp core/38mm_8x8_dot_matrix_column_cathode_led_display_narrow_pad.fzp core/38mm_8x8_dot_matrix_row_cathode_led_display.fzp core/38mm_8x8_dot_matrix_row_cathode_led_display_narrow_pad.fzp core/60mm_8x8_dot_matrix_column_cathode_led_display.fzp core/60mm_8x8_dot_matrix_column_cathode_led_display_narrow_pad.fzp core/60mm_8x8_dot_matrix_row_cathode_led_display.fzp core/60mm_8x8_dot_matrix_row_cathode_led_display_narrow_pad.fzp
+Copyright: 2020 Phil Duby
+License: CC-BY-SA-3.0
+
+
+Files: core/US-100_ultrasonic-distance-sensor.fzp
+Copyright: 2021 Moritz Kanemeier
+License: CC-BY-SA-3.0
+
+
+Files: core/atmega328-tqfp.fzp
+Copyright: 2023 fabian althaus
+License: CC-BY-SA-3.0
+Comment:  #end authors of parts
+
+Files: debian/*
+Copyright: 2010-2015 Enrique Hernández Bello <ehbello@gmail.com>
+License: GPL-3+
+
+License: CC-BY-SA-3.0
+ You are free:
+ - to Share — to copy, distribute and transmit the work
+ - to Remix — to adapt the work
+ - to make commercial use of the work
+ .
+ Under the following conditions:
+ - Attribution — You must attribute the work in the manner specified
+   by the author or licensor (but not in any way that suggests that
+   they endorse you or your use of the work).
+ .
+ - Share Alike — If you alter, transform, or build upon this work, you
+   may distribute the resulting work only under the same or similar
+   license to this one.
+ .
+ You can get a copy of the full license at:
+ <http://www.creativecommons.org/licenses/by-sa/3.0/>.
+ .
+ This means that you can create your own variation of Fritzing, as
+ long as you credit us and also publish it under GPL. Similarly, you
+ may re-publish our documentation, as long as you credit us, and
+ publish it under the same license.
+ .
+ You may publish circuits and diagrams that you create with Fritzing
+ and that use our graphics, again as long as you credit us, and
+ publish your works under the same license.  A credit can be as simple
+ as "this image was created with Fritzing."
+
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or (at
+ your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU General Public
+ License version 3 can be found in `/usr/share/common-licenses/GPL-3'.
+

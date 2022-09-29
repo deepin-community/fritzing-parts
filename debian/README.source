@@ -1,0 +1,4 @@
+fritzing for Debian
+-------------------
+
+Run `bzr-buildpackage` for build from bzr repository.
